@@ -1,0 +1,75 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@700&family=Roboto:wght@300;400;500&display=swap');
+
+.container{
+    display: block;
+    font-family: Roboto, sans-serif;
+}
+
+body {
+    margin: 0;
+}
+
+h1 {
+    font-family: Roboto Slab,sans-serif ;
+    font-size: 55px;
+    font-weight: 700;
+    margin-top: 91px;
+    margin-left: 124px;
+}
+
+.text {
+    position: relative;
+    width: 662px;
+    height: 374px;
+    line-height: 150%;
+    display: block;
+    margin-left: 124px;
+    margin-top: 63px;
+    font-size: 24px;
+    font-weight: 400;
+
+}
+.camera1{
+    position:absolute;
+    width: 366px;
+    height: 344px;
+    left: 950px;
+    top: 226px;
+}
+
+.camera2{
+    position: relative;
+    margin-left: 124px;
+    margin-top: 70px;
+}
+
+.block {
+    position: absolute;
+    display: flex;
+    justify-content: space-between;
+    width: 630px;
+    height: 105px;
+    left: 472px;
+    top: 719px;
+
+}
+
+.item {
+    display: inline-block;
+    width: 150px;
+    height: 90px;
+    
+}
+
+.title{
+    font-family: Roboto, sans-serif;
+    font-size: 25px;
+    margin: 0;
+}
+
+.subtitle{
+    margin-top: 20px;
+    font-size: 18px;
+    font-family: Roboto, sans-serif;
+    font-weight: normal;
+}
