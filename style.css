@@ -1,75 +1,90 @@
-@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@700&family=Roboto:wght@300;400;500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&family=Roboto+Slab:wght@100;200;300;400;500;600;700;800;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700;900&display=swap');
 
-.container{
-    display: block;
-    font-family: Roboto, sans-serif;
+body{
+    width: 100%;
 }
-
-body {
-    margin: 0;
+.logo{
+   
+    margin-top: 21px;
+    width: 112px;
+    height: 66px;
 }
-
-h1 {
-    font-family: Roboto Slab,sans-serif ;
-    font-size: 55px;
-    font-weight: 700;
-    margin-top: 91px;
-    margin-left: 124px;
+.palka {
+    background-color: black;
 }
-
-.text {
+.obsh{
     position: relative;
-    width: 662px;
-    height: 374px;
-    line-height: 150%;
-    display: block;
-    margin-left: 124px;
-    margin-top: 63px;
-    font-size: 24px;
-    font-weight: 400;
-
-}
-.camera1{
-    position:absolute;
-    width: 366px;
-    height: 344px;
-    left: 950px;
-    top: 226px;
 }
 
-.camera2{
-    position: relative;
-    margin-left: 124px;
-    margin-top: 70px;
-}
-
-.block {
+.visitka{
+    background-color: #1E4681;
+    color: white;
+    height: 200px;
+    width: 486px;
+    text-align: start;
     position: absolute;
-    display: flex;
-    justify-content: space-between;
-    width: 630px;
-    height: 105px;
-    left: 472px;
-    top: 719px;
-
-}
-
-.item {
-    display: inline-block;
-    width: 150px;
-    height: 90px;
-    
-}
-
-.title{
-    font-family: Roboto, sans-serif;
+    left: 393px;
+    top: 670px;
+    border: 5px;
+    border-radius: 5px;
+    -webkit-transform: rotate(-4deg);
+    font-family: 'Roboto Slab', serif;
+    font-weight: 400;
     font-size: 25px;
+    line-height: 32,5;
+    text-align: left;
+    box-sizing: border-box;
+    padding-left: 30px;
+    padding-top: 17px;
+}
+.endi{
+    text-align: right;
+    font-size: 20px;
     margin: 0;
 }
+.nach{
+    margin: 0;
+}
+.container{
+    margin-left: 121px;
+    font-family: 'Roboto Slab', serif;
+}
+.tmenu{
+    font-family: 'Roboto', sans-serif;
+    margin-top: 73px; 
+    margin-bottom: 10px;
+    display: flex;
+    font-size: 20px;
+    font-weight: 400px;
+}
+.onet{
+    margin-left: 8px;
+    margin-right: 40px;
+}
+.twot{
+    margin-left: 9px;
+    margin-right: 47px;
+}
+.threet{
+    margin-left: 12px;
+}
+.film{
+    font-size: 80px;
+    font-weight: 700;
+    margin: 0;
+    margin-top: -7px;
+    line-height: 81.11px;
+}
+.photo{
+    position: absolute;
+    left: 770px;
+    top: 56px;
+}
+.niz{
+    margin-top: 32px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+    line-height: 30px;
 
-.subtitle{
-    margin-top: 20px;
-    font-size: 18px;
-    font-family: Roboto, sans-serif;
-    font-weight: normal;
 }
