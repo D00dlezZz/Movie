@@ -178,11 +178,6 @@ position: relative;
     margin: 0px 0px 0px 26px; 
 }
 
-.social {
-display: flex;
-flex-direction: column;
-}
-
 .firstname {
  width: 353px;
 height: 59px;
@@ -432,13 +427,13 @@ footer{
     bottom: 5px;
 }
 
-/* .datafooter{
+.datafooter{
     margin-left: 122px;
     margin-top: 140px;
     font-family: 'Roboto', sans-serif;
     font-size: 18px;
     font-weight: 400;
-} */
+} 
 .instagram{
  margin-right: 15px;
  height: 33px;
