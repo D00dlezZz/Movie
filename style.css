@@ -197,9 +197,9 @@ color: #000000;
 
 
 .facebook {
-width: 32px;
-height: 31px;
-margin-left: 56px;
+    width: 32px;
+    height: 31px;
+    margin-left: 56px;
 }
 
 .title {
@@ -352,6 +352,7 @@ margin-left: 56px;
     top: 670px;
     border: 5px;
     border-radius: 5px;
+    
     -webkit-transform:  rotate(-4deg);
     font-family: 'Roboto Slab', serif;
     font-weight: 400;
@@ -431,21 +432,32 @@ footer{
     bottom: 5px;
 }
 
-.datafooter{
+/* .datafooter{
     margin-left: 122px;
     margin-top: 140px;
     font-family: 'Roboto', sans-serif;
     font-size: 18px;
     font-weight: 400;
-}
+} */
 .instagram{
  margin-right: 15px;
+ height: 33px;
+ width: 33px;
 }
-.facebook{
+.facebook2{
     margin-right: 16px;
+    height: 33px;
+    width: 33px;
 }
 .vk{
     margin-right: 22px;
+    height: 33px;
+    width: 33px;
+}
+.whats{
+    margin-right: 22px;
+    height: 33px;
+    width: 33px;
 }
 .podval{
     display: flex;
@@ -455,7 +467,7 @@ footer{
     margin-right: 170px;
     margin-top: 27px;
     font-family: 'Roboto', sans-serif;
-    font-size: 25px;
+    font-size: 25px;    
     font-weight: 400;
 }
 .phnumber{
@@ -684,3 +696,4 @@ footer{
     line-height: 110.38%;
     color: #000000;
 }
+
