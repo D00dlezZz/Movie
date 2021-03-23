@@ -15,9 +15,7 @@ body {
     margin: 0;
 }
 
-section {
-    margin-top: 170px;
-}
+
 
 .container-sct2{
     display: block;
@@ -63,8 +61,19 @@ section {
    margin-top: 139px;
 }
 
+.interest {
+    margin-top: 278px;
+}
+.format {
+    font-family: Roboto Slab, sans-serif ;
+    font-size: 55px;
+    font-weight: 700;
+    margin-left: 121px;
+    
+}
+
 .what-learn {
-    font-family: Roboto Slab,sans-serif ;
+    font-family: Roboto Slab, sans-serif ;
     font-size: 55px;
     font-weight: 700;
     margin-left: 124px;
@@ -107,13 +116,13 @@ background: #EFEFEF;
 }
 
 .course {
-font-family: Roboto Slab;
-font-style: normal;
-font-weight: bold;
-font-size: 55px;
-line-height: 101.38%;
-color: #000000;
-margin-left: 122px;
+    font-family: Roboto Slab;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 55px;
+    line-height: 101.38%;
+    color: #000000;
+    margin-left: 122px;
 }
 
 
