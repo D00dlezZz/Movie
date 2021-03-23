@@ -37,15 +37,17 @@ body {
     margin-left: 122px;
 
 }
+.text-camera {
+    display: flex;
+}
 
 .text-a {
-    position: relative;
+    margin-right: 190px;
     width: 662px;
     height: 374px;
     line-height: 150%;
     display: block;
     margin-left: 124px;
-    margin-top: 63px;
     font-size: 24px;
     font-weight: 400;
 }
@@ -141,11 +143,10 @@ background: #EFEFEF;
 }
 
 .camera1{
-    position:absolute;
+    margin-top: 61px;
     width: 366px;
     height: 344px;
-    left: 950px;
-    top: 1175px;
+
 }
 .camera2{
     margin-right: 132px;
