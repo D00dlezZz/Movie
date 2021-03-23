@@ -11,15 +11,10 @@
 }
 
 body {
-    width: 100%;
+    width: 1280px;
     margin: 0;
 }
 
-
-body{
-    width: 1280;
-    margin: 0;
-}
 section {
     margin-top: 170px;
 }
@@ -102,6 +97,7 @@ width: 1440px;
 height: 780px;
 background: #EFEFEF;
 }
+
 .camera1{
     position:absolute;
     width: 366px;
