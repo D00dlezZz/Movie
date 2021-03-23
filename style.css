@@ -403,6 +403,61 @@ margin-left: 56px;
     line-height: 30px;
 
 }
+
+footer{
+    box-sizing: border-box;
+    background-color: black;
+    width: 1440px;
+    height: 390px;
+    color: white;
+}
+.foot{
+    margin-top: 20px;
+    margin-left: 122px;
+}
+.social{
+    margin-left: 122px;
+    margin-top: 0px;
+    position: relative;
+    bottom: 5px;
+}
+
+.datafooter{
+    margin-left: 122px;
+    margin-top: 140px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+}
+.instagram{
+ margin-right: 15px;
+}
+.facebook{
+    margin-right: 16px;
+}
+.vk{
+    margin-right: 22px;
+}
+.podval{
+    display: flex;
+    justify-content: space-between;
+}
+.contact{
+    margin-right: 170px;
+    margin-top: 27px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 25px;
+    font-weight: 400;
+}
+.phnumber{
+    margin-right: 25px ;
+}
+.phon{
+    margin-bottom: 0;
+}
+.email{
+    margin-top: 10px;
+=======
 .container-author{
     margin-top: 340px;
 }
@@ -618,5 +673,4 @@ margin-left: 56px;
     font-size: 18px;
     line-height: 110.38%;
     color: #000000;
-    
 }
