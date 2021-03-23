@@ -38,17 +38,6 @@ body {
 
 }
 
-.access {
-    display: inline-block;
-}
-
-
-.webinars {
-    font-weight: bold;
-    font-size: 25px;
-    color: #1E4681;
-}
-
 .text-a {
     position: relative;
     width: 662px;
@@ -60,11 +49,37 @@ body {
     font-size: 24px;
     font-weight: 400;
 }
+
+.format-section {
+    margin-top: 162px;
+}
+
+.format {
+    width: 667px;
+    height: 93px;
+    margin-left: 121px;
+}
+
+.access {
+    display: inline-block;
+}
+
+.webinars {
+    font-weight: bold;
+    font-size: 25px;
+    color: #1E4681;
+    position: relative;
+    margin-left: 124px;
+    margin-top: 52px;
+}
+
 .communication {
     font-size: 18px;
-    margin-left: 126px;
-    margin-top: -20px;
+    margin-left: 124px;
+    margin-top: -25px;
 }
+
+
 
 .fencers {
     margin-left: 870px;
@@ -72,16 +87,16 @@ body {
    margin-top: 139px;
 }
 
-.interest {
-    margin-top: 278px;
-    width: 100%;
-}
 .format {
     font-family: Roboto Slab, sans-serif ;
     font-size: 55px;
     font-weight: 700;
     margin-left: 121px;
     
+}
+
+.what-to-know-section {
+    margin-top: 200px;
 }
 
 .what-learn {
@@ -95,6 +110,7 @@ body {
 
 .block4 {
     margin-top: -17px;
+    margin-left: -5px;
 }
 
 .learn-list {
@@ -110,6 +126,7 @@ body {
     position: absolute;
     margin-left: 855px;
     margin-top: 182px;
+    margin-right: 204px;
 }
 
 
