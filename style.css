@@ -272,4 +272,75 @@ section {
 
 }
 
+.begin {
+    display: flex;
+    flex-direction: column;
+    height: 780px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    margin-left: -7px;
+    
+    background: #9DC9C8;
+}
+.september {
+    font-family: Roboto Slab;
+    width: 908px;
+    height: 66px;
+    margin: 179px 0px 10px 129px;
+    font-weight: bold;
+    font-size: 55px;
+    line-height: 101.38%;
+    color: #000000;
+}
 
+.cost {
+    width: 170px;
+    margin: 54px 0px 0px 129px;
+    margin-top: 54px;
+    font-size: 25px;
+    line-height: 101.38%;
+    color: #000000;
+}
+
+.price {
+    font-size: 80px;
+    line-height: 101.38%;
+    color: #000000;
+    margin: 10px 0px 0px 129px;
+}
+
+.information {
+    display: flex;
+    margin: 74px 0px 0px 129px;
+}
+.levels {
+    display: flex;
+    flex-direction: column;
+    
+    width: 294px;
+    margin: 0px 0px 0px 0px;
+}
+
+.come {
+    display: flex;
+    flex-direction: column;
+    width: 294px;
+    margin: 0px 0px 0px 70px;
+}
+
+.level {
+    font-size: 25px;
+    line-height: 101.38%;
+    color: #000000;
+    margin: 0px 0px 0px;
+}
+
+.from0 {
+    height: 70px;
+    width: 294px;
+    font-size: 18px;
+    line-height: 110.38%;
+    color: #000000;
+    
+}
