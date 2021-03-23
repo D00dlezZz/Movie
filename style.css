@@ -17,6 +17,7 @@ body {
 .page-section {
     max-width: 1440px;
     width: 100%;
+    margin: 0 auto;
 }
 
 
@@ -532,7 +533,6 @@ footer{
     position: relative;
     margin-top: 129px;
     margin-left: 365px;
-    width: 100%;
 }
 
 .authors-block2 {
@@ -638,7 +638,6 @@ footer{
     font-family: Roboto;
     font-style: normal;
     font-weight: normal;
-    margin-left: -7px;
     width: 100%;
     background: #9DC9C8;
 }
