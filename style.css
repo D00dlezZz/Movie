@@ -556,6 +556,7 @@ footer{
 }
 
 .subname2 {
+    position: relative;
     margin: 0;
     font-family: 'Roboto',sans-serif;
     font-style: normal;
@@ -574,20 +575,38 @@ footer{
 }
 
 .info {
+    right: 116px;
     position: absolute;
-    left: 289px;
     bottom: 52px;
+   
+
+}
+.hover-text{
+    position: relative;
+
 }
 
 .info1 {
     position: absolute;
-    left: 289px;
+    left: 655px;
     bottom: 30px;
 }
 
+.hover-text:hover .infotext2 {
+    display: block;
+}
+
+.hover-text2 {
+    position: relative;
+}
+
+.hover-text2:hover .infotext{
+    display: block;
+}
+
 .infotext{
+    display: none;
     box-sizing: border-box;
-    display: flex;
     flex-direction: column;
     position: absolute;
     font-family: 'Roboto',sans-serif;
@@ -600,9 +619,9 @@ footer{
     width: 399px;
     height: 379px;
     padding: 24px 21px 24px 25px;
-    margin-right: 102px;
-    margin-left: 939px; 
-    margin-top: -508px;
+    right: 102px;
+    left: 939px; 
+    top: -508px;
 }
 
 .infotext p {
@@ -611,8 +630,8 @@ footer{
 
 
 .infotext2 {
+    display: none;
     box-sizing: border-box;
-    display: flex;
     flex-direction: column;
     position: absolute;
     font-family: 'Roboto',sans-serif;
@@ -625,8 +644,8 @@ footer{
     width: 399px;
     height: 274px;
     padding: 31px 21px 17px 25px;
-    margin-left: 338px;
-    margin-top: 39px;
+    left: 338px;
+    top: 39px;
 }
 
 .infotext2 p{
