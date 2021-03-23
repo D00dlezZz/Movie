@@ -145,6 +145,7 @@ margin-top: 250px;
     top: 1175px;
 }
 .camera2{
+    margin-right: 132px;
     position: relative;
     margin-left: 124px;
     margin-top: 70px;
@@ -161,23 +162,23 @@ margin-top: 250px;
 
 
 .feedback {
-width: 791px;
-height: 451px;
-background-color: white;
-margin-left: 126px;
-border: 1px solid white;
-border-radius: 30px;
+    width: 791px;
+    height: 451px;
+    background-color: white;
+    margin-left: 126px;
+    border: 1px solid white;
+    border-radius: 30px;
 }
 
 .comment {
-width: 700px;
-height: 203px;
-margin: 40px 46px 0px 45px;
-font-family: Roboto;
-font-size: 20px;
-line-height: 150%;
-color: #000000;
-position: relative;
+    width: 700px;
+    height: 203px;
+    margin: 40px 46px 0px 45px;
+    font-family: Roboto;
+    font-size: 20px;
+    line-height: 150%;
+    color: #000000;
+    position: relative;
 }
 
 .response {
@@ -186,11 +187,7 @@ position: relative;
 }
 
 .block-sub {
-    position: absolute;
     display: flex;
-    justify-content: space-between;
-    width: 630px;
-    height: 105px;
     left: 472px;
     top: 719px;
 }
@@ -202,15 +199,15 @@ position: relative;
 }
 
 .firstname {
- width: 353px;
-height: 59px;
-margin: 40px 0px 0px 56px;
-font-family: Roboto Slab;
-font-style: normal;
-font-weight: bold;
-font-size: 30px;
-line-height: 101.38%;
-color: #000000;
+    width: 353px;
+    height: 59px;
+    margin: 40px 0px 0px 56px;
+    font-family: Roboto Slab;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 30px;
+    line-height: 101.38%;
+    color: #000000;
 }
 
 
@@ -230,7 +227,8 @@ color: #000000;
     display: inline-block;
     width: 150px;
     height: 90px;
-    margin-top: 900px;
+    margin-top: 168px;
+    margin-right: 104px;
     
 }
 
