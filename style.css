@@ -2,9 +2,14 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700;900&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@700&family=Roboto:wght@300;400;500&display=swap');
 
+.page-section{
+    max-width: 1440px;
+    width: 100%;
+}
+
 .block3,
 .block4 {
-    width: 1440px;
+    max-width: 1440px;
     display: flex;
     font-family: Roboto, sans-serif;
     color: #000000;
@@ -125,10 +130,7 @@ body {
 }
 
 .dragon {
-    position: absolute;
-    margin-left: 855px;
-    margin-top: 182px;
-    margin-right: 204px;
+ 
 }
 
 .reviews-section {
@@ -265,7 +267,6 @@ background: #EFEFEF;
     font-weight: normal;
 }
 
-/* ///// */
 
 .container-program{
     width: 100%;
@@ -300,7 +301,6 @@ background: #EFEFEF;
 }
 .block {
     position: relative;
-    display: flex;
     margin-top: 95px;
     flex-wrap: wrap;
     margin-left: 49px;
@@ -368,14 +368,8 @@ background: #EFEFEF;
     display: flex;
 }
 
-.man {
-    position: absolute;
-    margin-top: 971px;
-    margin-left: 980px;
-}
 
 .logo{
-   
     margin-top: 21px;
     width: 112px;
     height: 66px;
@@ -385,6 +379,7 @@ background: #EFEFEF;
 }
 .obsh{
     display: flex;
+    margin-left: 121px;
 }
 
 .visitka{
@@ -415,12 +410,7 @@ background: #EFEFEF;
 .nach{
     margin: 0;
 }
-.container{
-    margin: 0 auto;
-    font-family: 'Roboto Slab', serif;
-    width: 100%;
-    padding-left: 112px;
-}
+
 .tmenu{
     font-family: 'Roboto', sans-serif;
     margin-top: 73px; 
@@ -430,6 +420,7 @@ background: #EFEFEF;
     font-weight: 400px;
 }
 .onet{
+    font-size: 20px;
     margin-left: 8px;
     margin-right: 40px;
 }
@@ -440,7 +431,7 @@ background: #EFEFEF;
 .threet{
     margin-left: 12px;
 }
-.film{
+.film {
     font-size: 80px;
     font-weight: 700;
     margin: 0;
@@ -462,7 +453,8 @@ background: #EFEFEF;
 footer{
     box-sizing: border-box;
     background-color: black;
-    width: 1440px;
+    max-width: 1440px;
+    width: 100%;
     height: 390px;
     color: white;
 }
@@ -762,118 +754,12 @@ footer{
 }
 
 
-@media (min-width:834px) and (max-width:1279px){
-    /* header-section */
-  .photo{
-      width: 176.07px;
-      height: 206.18px;
-      margin-top: 139px;
-      margin-left:100px
-  }
-  .logo{
-   
-    margin-top: 22px;
-    width: 64.87px;
-    height: 38.23px;
-}
-.tmenu{
-    font-family: 'Roboto', sans-serif;
-    margin-top: 73px; 
-    margin-bottom: 10px;
-    display: flex;
-    font-size: 20px;
-    font-weight: 400px;
-}
-.film {
-    font-size: 46px;
-    font-weight: 700;
-    margin: 0;
-    margin-top: -7px;
-    line-height: 46px;
-}
-.onet{
-font-weight: 400;
-font-size: 12px;
-line-height:13,8px;
-margin-left: 8px;
-margin-right: 40px;
-}
-.twot{
-font-weight: 400;
-font-size: 12px;
-line-height:13,8px;
-margin-left: 9px;
-margin-right: 47px;
-}
-.threet{
-font-weight: 400;
-font-size: 12px;
-line-height:13,8px;
-margin-left: 12px;
-}
-.niz {
-    font-weight: 400;
-    margin-top: 32px;
-    font-family: 'Roboto', sans-serif;
-    font-size: 12px;
-    line-height: 18px;
-}
-.visitka{
-    background-color: #1E4681;
-    color: white;
-    height: 135.09px;
-    width: 287.5px;
-    text-align: start;
-    border: 5px;
-    border-radius: 5px;
-    transform:  rotate(-4deg);
-    font-family: 'Roboto Slab', serif;
-    font-weight: 400;
-    font-size: 25px;
-    line-height: 32,5;
-    text-align: left;
-    box-sizing: border-box;
-    padding-left: 30px;
-    padding-top: 17px;
-    margin-left: 165px;
-    margin-top: 50px;
-}
-.nach {
-    font-weight: 400;
-    font-size: 14px;
-    line-height:18,2px;
-}
-.endi {
-    font-weight: 400;
-    font-size: 12px;
-    line-height:15,6px;
-    text-align: right;
-    padding-right: 10px;
-    padding-top: 10px;
-}
-.chel{
-    width: 176.07px;
-    height: 206.18px;
-}
+  
+
     /* header-section */
 
     /* about-course-section */
-.camera2{
-    margin-right: 77px;
-    margin-left: 124px;
-    margin-top: 70px;
-}
 
-.block-sub{
-    display: flex;
-    margin-top: 54px;
-}
-
-.item{
-    width: 150px;
-    margin-top: 168px;
-    margin-right: 55px;
-}
     /* about-course-section */
 
     /* format-section */
@@ -884,138 +770,6 @@ margin-left: 12px;
     /* what-to-know-section */
 
     /* program-section */
-     .block-item {
-         width: 361px;
-         height: 308px;
-     }
-
-     .block-pick{
-         width: 100%;
-     }
-     .block-h{
-        font-size: 27px;
-     }
-     .block-h8{
-        font-size: 27px;
-     }
-     .block1 {
-        margin-bottom: 23px;
-     }
-     .block2{
-        margin-bottom: 23px;
-     }
-    /* program-section */
-
-    /* authors-section */
-    /* authors-section */
-
-    /* reviews-section */
-    /* reviews-section */
-
-    /* begin-section */
-    /* begin-section */
-
-    /* footer-section */
-    /* footer-section */
-}
-
-@media (min-width:375px) and (max-width: 833px){
-
-    /* header-section */
-
-    /* header-section */
-
-    /* about-course-section */
-
-    .container-sct2 {
-        display: flex;
-        flex-wrap: wrap;
-        font-family: 'Roboto', sans-serif;
-        margin-top: 500px;
-        width: 100%;
-    }
-    .text-camera{
-        flex-wrap: wrap;
-    }
-
-    .text-a {
-        height: 374px;
-        line-height: 150%;
-        display: block; 
-        font-size: 24px;
-        font-weight: 400;
-        width: 375%;
-        margin-left: 36px;
-        margin-right: 31px;
-
-    }
-
-    .camera1 {
-        margin-top: -138px;
-        width: 170px;
-        margin-left: 101px;
-        height: 160px;
-    }
-    .camera2 {
-        width: 108.11px;
-        height: 102.05px;
-        margin-left: 224px;
-    }
-
-    .block-sub {
-        display: flex;
-        flex-wrap: wrap;
-    }
-
-    .item1 {
-        margin: -148px 0 0 36px;
-        width: 78px;
-        height: 90px;
-    }
-    .item2 {
-        width: 104px;
-        height: 90px;
-        margin-top: -147px;
-        margin-right: 104px;
-        margin-left: 40px;
-    }
-    .item3 {
-        margin-left: 36px;
-        width: 94px;
-        height: 90px;
-        margin-top: -61px;
-    }
-    .title{
-        font-size: 12px;
-    }
-
-    .subtitle {
-        line-height: 130%;
-        margin-top: 11px;
-        font-size: 10px;
-    }
-    /* about-course-section */
-
-    /* format-section */
-
-    /* format-section */
-
-    /* what-to-know-section */
-    /* what-to-know-section */
-
-    /* program-section */
-
-    .man {
-        display: none;
-    }
-    .text-a {
-        font-size: 12px;
-    }
-
-    .aboux {
-        margin-left: 36px;
-        font-size: 27px;
-    }
 
     /* program-section */
 
@@ -1030,5 +784,4 @@ margin-left: 12px;
 
     /* footer-section */
     /* footer-section */
-}
 
