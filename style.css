@@ -755,7 +755,22 @@ footer{
     /* header-section */
 
     /* about-course-section */
+.camera2{
+    margin-right: 77px;
+    margin-left: 124px;
+    margin-top: 70px;
+}
 
+.block-sub{
+    display: flex;
+    margin-top: 54px;
+}
+
+.item {
+    width: 150px;
+    margin-top: 168px;
+    margin-right: 55px;
+}
     /* about-course-section */
 
     /* format-section */
@@ -782,6 +797,7 @@ footer{
 }
 
 @media (min-width:375px) and (max-width: 833px){
+
     /* header-section */
 
     /* header-section */
@@ -798,6 +814,9 @@ footer{
     /* what-to-know-section */
 
     /* program-section */
+    .man {
+        display: none;
+    }
     /* program-section */
 
     /* authors-section */
