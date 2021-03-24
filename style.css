@@ -766,6 +766,26 @@ footer{
     /* what-to-know-section */
 
     /* program-section */
+     .block-item {
+         width: 361px;
+         height: 308px;
+     }
+
+     .block-pick{
+         width: 100%;
+     }
+     .block-h{
+        font-size: 27px;
+     }
+     .block-h8{
+        font-size: 27px;
+     }
+     .block1 {
+        margin-bottom: 23px;
+     }
+     .block2{
+        margin-bottom: 23px;
+     }
     /* program-section */
 
     /* authors-section */
@@ -798,6 +818,7 @@ footer{
     /* what-to-know-section */
 
     /* program-section */
+
     /* program-section */
 
     /* authors-section */
