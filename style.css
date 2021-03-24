@@ -241,7 +241,10 @@ background: #EFEFEF;
     margin-right: 104px;
     
 }
-
+.chel{
+    width: 304px;
+    height: 356px;
+}
 .subtitle{
     margin-top: 20px;
     font-size: 18px;
@@ -368,7 +371,7 @@ background: #EFEFEF;
     background-color: black;
 }
 .obsh{
-    position: relative;
+    display: flex;
 }
 
 .visitka{
@@ -377,12 +380,10 @@ background: #EFEFEF;
     height: 200px;
     width: 486px;
     text-align: start;
-    position: absolute;
     left: 630px;
     top: 670px;
     border: 5px;
     border-radius: 5px;
-    
     transform:  rotate(-4deg);
     font-family: 'Roboto Slab', serif;
     font-weight: 400;
@@ -434,9 +435,8 @@ background: #EFEFEF;
     line-height: 81.11px;
 }
 .photo{
-    position: absolute;
-    left: 770px;
-    top: 56px;
+    margin-top: 130px;
+    margin-left: 150px;
 }
 .niz{
     margin-top: 32px;
@@ -751,7 +751,97 @@ footer{
 
 @media (min-width:834px) and (max-width:1279px){
     /* header-section */
-
+  .photo{
+      width: 176.07px;
+      height: 206.18px;
+      margin-top: 139px;
+      margin-left:100px
+  }
+  .logo{
+   
+    margin-top: 22px;
+    width: 64.87px;
+    height: 38.23px;
+}
+.tmenu{
+    font-family: 'Roboto', sans-serif;
+    margin-top: 73px; 
+    margin-bottom: 10px;
+    display: flex;
+    font-size: 20px;
+    font-weight: 400px;
+}
+.film {
+    font-size: 46px;
+    font-weight: 700;
+    margin: 0;
+    margin-top: -7px;
+    line-height: 46px;
+}
+.onet{
+font-weight: 400;
+font-size: 12px;
+line-height:13,8px;
+margin-left: 8px;
+margin-right: 40px;
+}
+.twot{
+font-weight: 400;
+font-size: 12px;
+line-height:13,8px;
+margin-left: 9px;
+margin-right: 47px;
+}
+.threet{
+font-weight: 400;
+font-size: 12px;
+line-height:13,8px;
+margin-left: 12px;
+}
+.niz {
+    font-weight: 400;
+    margin-top: 32px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 12px;
+    line-height: 18px;
+}
+.visitka{
+    background-color: #1E4681;
+    color: white;
+    height: 135.09px;
+    width: 287.5px;
+    text-align: start;
+    border: 5px;
+    border-radius: 5px;
+    transform:  rotate(-4deg);
+    font-family: 'Roboto Slab', serif;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 32,5;
+    text-align: left;
+    box-sizing: border-box;
+    padding-left: 30px;
+    padding-top: 17px;
+    margin-left: 165px;
+    margin-top: 50px;
+}
+.nach {
+    font-weight: 400;
+    font-size: 14px;
+    line-height:18,2px;
+}
+.endi {
+    font-weight: 400;
+    font-size: 12px;
+    line-height:15,6px;
+    text-align: right;
+    padding-right: 10px;
+    padding-top: 10px;
+}
+.chel{
+    width: 176.07px;
+    height: 206.18px;
+}
     /* header-section */
 
     /* about-course-section */
