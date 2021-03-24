@@ -233,13 +233,26 @@ background: #EFEFEF;
     margin: 0;
 }
 
-.item {
+.item1 {
     display: inline-block;
     width: 150px;
     height: 90px;
     margin-top: 168px;
-    margin-right: 104px;
-    
+    margin-right: 104px;   
+}
+.item2 {
+    display: inline-block;
+    width: 150px;
+    height: 90px;
+    margin-top: 168px;
+    margin-right: 104px;   
+}
+.item3 {
+    display: inline-block;
+    width: 150px;
+    height: 90px;
+    margin-top: 168px;
+    margin-right: 104px;   
 }
 .chel{
     width: 304px;
@@ -845,7 +858,22 @@ margin-left: 12px;
     /* header-section */
 
     /* about-course-section */
+.camera2{
+    margin-right: 77px;
+    margin-left: 124px;
+    margin-top: 70px;
+}
 
+.block-sub{
+    display: flex;
+    margin-top: 54px;
+}
+
+.item{
+    width: 150px;
+    margin-top: 168px;
+    margin-right: 55px;
+}
     /* about-course-section */
 
     /* format-section */
@@ -872,12 +900,80 @@ margin-left: 12px;
 }
 
 @media (min-width:375px) and (max-width: 833px){
+
     /* header-section */
 
     /* header-section */
 
     /* about-course-section */
 
+    .container-sct2 {
+        display: flex;
+        flex-wrap: wrap;
+        font-family: 'Roboto', sans-serif;
+        margin-top: 500px;
+        width: 100%;
+    }
+    .text-camera{
+        flex-wrap: wrap;
+    }
+
+    .text-a {
+        height: 374px;
+        line-height: 150%;
+        display: block; 
+        font-size: 24px;
+        font-weight: 400;
+        width: 375%;
+        margin-left: 36px;
+        margin-right: 31px;
+
+    }
+
+    .camera1 {
+        margin-top: -138px;
+        width: 170px;
+        margin-left: 101px;
+        height: 160px;
+    }
+    .camera2 {
+        width: 108.11px;
+        height: 102.05px;
+        margin-left: 224px;
+    }
+
+    .block-sub {
+        display: flex;
+        flex-wrap: wrap;
+    }
+
+    .item1 {
+        margin: -148px 0 0 36px;
+        width: 78px;
+        height: 90px;
+    }
+    .item2 {
+        width: 104px;
+        height: 90px;
+        margin-top: -147px;
+        margin-right: 104px;
+        margin-left: 40px;
+    }
+    .item3 {
+        margin-left: 36px;
+        width: 94px;
+        height: 90px;
+        margin-top: -61px;
+    }
+    .title{
+        font-size: 12px;
+    }
+
+    .subtitle {
+        line-height: 130%;
+        margin-top: 11px;
+        font-size: 10px;
+    }
     /* about-course-section */
 
     /* format-section */
@@ -888,6 +984,17 @@ margin-left: 12px;
     /* what-to-know-section */
 
     /* program-section */
+    .man {
+        display: none;
+    }
+    .text-a {
+        font-size: 12px;
+    }
+
+    .aboux {
+        margin-left: 36px;
+        font-size: 27px;
+    }
     /* program-section */
 
     /* authors-section */
