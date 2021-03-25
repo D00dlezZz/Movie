@@ -2,386 +2,80 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700;900&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@700&family=Roboto:wght@300;400;500&display=swap');
 
+
 .page-section{
     max-width: 1440px;
     width: 100%;
 }
-
-.block3,
-.block4 {
-    max-width: 1440px;
-    display: flex;
-    font-family: Roboto, sans-serif;
-    color: #000000;
-}
-
-body {
+body{
     margin: 0;
 }
 
-.page-section {
-    max-width: 1440px;
-    width: 100%;
-    margin: 0 auto;
+/* Header-section */
+.header-section{
+    margin-bottom: 162px;
 }
-
-
-.container-sct2{
-    display: block;
-    font-family: Roboto, sans-serif;
-    margin-top: 500px;
-    width: 100%;
-}
-
-
-.aboux {
-    font-family: 'Roboto Slab',sans-serif ;
-    font-size: 55px;
-    font-weight: 700;
-    margin-top: 91px;
-    margin-left: 122px;
-
-}
-.text-camera {
-    display: flex;
-}
-
-.text-a {
-    margin-right: 190px;
-    width: 662px;
-    height: 374px;
-    line-height: 150%;
-    display: block;
-    margin-left: 124px;
-    font-size: 24px;
-    font-weight: 400;
-}
-
-.format-section {
-    margin-top: 162px;
-}
-
-.format {
-    width: 667px;
-    height: 93px;
-    margin-left: 121px;
-}
-
-.access {
-    display: inline-block;
-}
-
-.webinars {
-    font-weight: bold;
-    font-size: 25px;
-    color: #1E4681;
-    position: relative;
-    margin-left: 124px;
-    margin-top: 52px;
-}
-
-.communication {
-    font-size: 18px;
-    margin-left: 124px;
-    margin-top: -25px;
-}
-
-
-
-.fencers {
-    margin-left: 870px;
-   position: absolute;
-   margin-top: 139px;
-}
-
-.format {
-    font-family: Roboto Slab, sans-serif ;
-    font-size: 55px;
-    font-weight: 700;
-    margin-left: 121px;
-    
-}
-
-.what-to-know-section {
-    margin-top: 200px;
-}
-
-.what-learn {
-    font-family: Roboto Slab, sans-serif ;
-    font-size: 55px;
-    font-weight: 700;
-    margin-left: 124px;
-    margin-top: 192px;
-    position: relative;
-}
-
-.block4 {
-    margin-top: -17px;
-    margin-left: -5px;
-}
-
-.learn-list {
-    font-size: 24px;;
-    width: 662px;
-    height: 374px;
-    margin-left: 112px;
-    line-height: 150%;
-    position: relative;
-}
-
-.dragon {
- 
-}
-
-.reviews-section {
-    margin-top: 280px;
-}
-
-.study {
-width: 100%;
-height: 740px;
-background: #EFEFEF;
-
-}
-
-.camera1{
-    margin-top: 61px;
-    width: 366px;
-    height: 344px;
-
-}
-.camera2{
-    margin-right: 132px;
-    position: relative;
-    margin-left: 124px;
-    margin-top: 70px;
-}
-.course {
-    font-family: Roboto Slab;
-    font-style: normal;
-    font-weight: bold;
-    font-size: 55px;
-    line-height: 101.38%;
-    color: #000000;
-    margin-left: 122px;
-    padding: 70px 0px 0px;
-    box-sizing: border-box;
-}
-
-
-.feedback {
-    width: 791px;
-    height: 451px;
-    background-color: white;
-    margin-left: 126px;
-    border: 1px solid white;
-    border-radius: 30px;
-}
-
-.comment {
-    width: 700px;
-    height: 203px;
-    margin: 40px 46px 0px 45px;
-    font-family: Roboto;
-    font-size: 20px;
-    line-height: 150%;
-    color: #000000;
-    position: relative;
-}
-
-.response {
-    display: flex;
-    flex-direction: row;
-}
-
-.block-sub {
-    display: flex;
-    left: 472px;
-    top: 719px;
-}
-
-.photo2 {
-    width: 190px;
-    height: 169px;
-    margin: 15px 0px 0px 26px; 
-}
-
-.social-name {
-    margin-left: -20px;
-}
-
-.firstname {
-    width: 353px;
-    height: 59px;
-    margin: 40px 0px 0px 56px;
-    font-family: Roboto Slab;
-    font-style: normal;
-    font-weight: bold;
-    font-size: 30px;
-    line-height: 101.38%;
-    color: #000000;
-}
-
-
-.facebook {
-    width: 32px;
-    height: 31px;
-    margin-left: 56px;
-}
-
-.title {
-    font-family: Roboto, sans-serif;
-    font-size: 25px;
-    margin: 0;
-}
-
-.item1 {
-    display: inline-block;
-    width: 150px;
-    height: 90px;
-    margin-top: 168px;
-    margin-right: 104px;   
-}
-.item2 {
-    display: inline-block;
-    width: 150px;
-    height: 90px;
-    margin-top: 168px;
-    margin-right: 104px;   
-}
-.item3 {
-    display: inline-block;
-    width: 150px;
-    height: 90px;
-    margin-top: 168px;
-    margin-right: 104px;   
-}
-.chel{
-    width: 304px;
-    height: 356px;
-}
-.subtitle{
-    margin-top: 20px;
-    font-size: 18px;
-    font-family: 'Roboto', sans-serif;
-    font-weight: normal;
-}
-
-
-.container-program{
-    width: 100%;
-    margin-top: 224px;
-}
-.section-head{
-    white-space: nowrap;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-}
- .line {
-    font-weight: 900;
-    height: 14px;  
-    background-color: black;
-    margin: 0;
-    width: 630px;
- }
-
-
-.text {
-    display: flex;
-    font-family: Roboto Slab;
-    font-style: normal;
-    font-weight: bold;
-    font-size: 55px;
-    line-height: 101.38%;
-    margin-left: 121px;
-    margin-right: 178px;
-    
-    
-}
-.block {
-    position: relative;
-    margin-top: 95px;
-    flex-wrap: wrap;
-    margin-left: 49px;
-
-}
-
-.block-item {
-    margin-right: 22px;
-    margin-top: 24px;
-    margin-left: 22px;
-    width: 399px;
-    height: 328px;
-    box-shadow: 1px 1px 15px rgba(0, 0, 0, 0.25);
-    border-radius: 30px;
-}
-
-.block-h {
-    margin-top: 11px;
-    margin-left: 20px;
-    font-family: Roboto;
-    font-style: normal;
-    font-weight: bold;
-    font-size: 30px;
-    line-height: 130%;
-}
-
-.block-text {
-    margin-top: 32px;
-    margin-left: 20px;
-    font-family: Roboto;
-    font-style: normal;
-    font-weight: normal;
-    font-size: 25px;
-    line-height: 130%;
-}
-.block-h8{
-    line-height: 97%;
-    margin-top: 11px;
-    margin-left: 20px;
-    font-family: Roboto;
-    font-style: normal;
-    font-weight: bold;
-    font-size: 30px;
-}
-
-.block-text8 {
-    margin-top: 10px;
-    margin-left: 20px;
-    font-family: Roboto;
-    font-style: normal;
-    font-weight: normal;
-    font-size: 25px;
-    line-height: 130%;
-}
-
-.block1{
-    display: flex;
-}
-
-.block2 {
-    display: flex;   
-}
-
-.block3 {
-    display: flex;
-}
-
-
 .logo{
     margin-top: 21px;
     width: 112px;
     height: 66px;
-}
-.palka {
-    background-color: black;
+    margin-left: 121px;
 }
 .obsh{
     display: flex;
     margin-left: 121px;
 }
+.tmenu{
+    font-family: 'Roboto', sans-serif;
+    margin-top: 73px; 
+    margin-bottom: 10px;
+    display: flex;
+    font-size: 20px;
+    font-weight: 400px;
+}
 
+.onet{
+    font-size: 20px;
+    margin-left: 8px;
+    margin-right: 40px;
+}
+
+.twot{
+    margin-left: 9px;
+    margin-right: 47px;
+}
+
+.threet{
+    margin-left: 12px;
+}
+
+.film {
+    font-size: 80px;
+    font-weight: 700;
+    margin: 0;
+    margin-top: -7px;
+    line-height: 81.11px;
+}
+
+.niz{
+    margin-top: 32px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+    line-height: 30px;
+
+}
+
+.amenu{
+    margin-right: 103px;
+}
+
+.chel{
+    margin-right: 246px;
+    margin-top: 130px;
+    margin-left: 150px;
+    width: 304px;
+    height: 356px;
+}
 .visitka{
     background-color: #1E4681;
     color: white;
@@ -401,8 +95,14 @@ background: #EFEFEF;
     box-sizing: border-box;
     padding-left: 30px;
     padding-top: 17px;
+    margin-left: 403px;
+    margin-top: 49px;
 }
 .endi{
+    padding-right: 20px;
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: normal;
     text-align: right;
     font-size: 20px;
     margin: 0;
@@ -411,117 +111,286 @@ background: #EFEFEF;
     margin: 0;
 }
 
-.tmenu{
-    font-family: 'Roboto', sans-serif;
-    margin-top: 73px; 
-    margin-bottom: 10px;
-    display: flex;
-    font-size: 20px;
-    font-weight: 400px;
-}
-.onet{
-    font-size: 20px;
-    margin-left: 8px;
-    margin-right: 40px;
-}
-.twot{
-    margin-left: 9px;
-    margin-right: 47px;
-}
-.threet{
-    margin-left: 12px;
-}
-.film {
-    font-size: 80px;
-    font-weight: 700;
-    margin: 0;
-    margin-top: -7px;
-    line-height: 81.11px;
-}
-.photo{
-    margin-top: 130px;
-    margin-left: 150px;
-}
-.niz{
-    margin-top: 32px;
-    font-family: 'Roboto', sans-serif;
-    font-size: 20px;
-    line-height: 30px;
+/* /Header-section */
 
+/* about-course-section */
+.about-course-section{
+    margin-bottom: 162px;
 }
-
-footer{
-    box-sizing: border-box;
-    background-color: black;
-    max-width: 1440px;
+.container-sct2{
     width: 100%;
-    height: 390px;
-    color: white;
+    display: block;
+    font-family: 'Roboto', sans-serif;
 }
-.foot{
-    margin-top: 20px;
-    margin-left: 122px;
+.aboux {
+    font-family: 'Roboto Slab',sans-serif ;
+    font-size: 55px;
+    font-weight: 700;
+    margin-top: 91px;
+    margin-left: 121px;
+
 }
-.social{
-    margin-left: 122px;
-    margin-top: 0px;
-    position: relative;
-    bottom: 5px;
+.text-camera {
+    display: flex;
 }
 
-.datafooter{
-    margin-left: 122px;
-    margin-top: 140px;
-    font-family: 'Roboto', sans-serif;
-    font-size: 18px;
+.text-a {
+    font-family: 'Roboto Slab',sans-serif ;
+    line-height: 150%;
+    display: block;
+    margin-left: 121px;
+    margin-right: 32px;
+    font-size: 24px;
     font-weight: 400;
-} 
-.instagram{
- margin-right: 15px;
- height: 33px;
- width: 33px;
+
 }
-.facebook2{
-    margin-right: 16px;
-    height: 33px;
-    width: 33px;
+.camera1{
+    margin-top: 60px;
+    margin-left: 195px;
 }
-.vk{
-    margin-right: 22px;
-    height: 33px;
-    width: 33px;
+.block-sub{
+    display: flex;
+    left: 472px;
+    top: 719px;
 }
-.whats{
-    margin-right: 22px;
-    height: 33px;
-    width: 33px;
+.camera2{
+    margin-right: 132px;
+    margin-left: 121px;
+    margin-top: 70px;
 }
-.podval{
+
+.item1 {
+    margin-top: 110px;
+    margin-right: 104px;
+    display: inline-block;
+    width: 150px;
+    height: 90px;  
+}
+.item2 {
+    margin-top: 110px;
+    margin-right: 104px;
+    display: inline-block;
+    width: 150px;
+    height: 90px;
+   
+}
+.item3 {
+    margin-right: 104px;
+    margin-top: 110px;
+    display: inline-block;
+    width: 150px;
+    height: 90px;
+ 
+}
+.title {
+    font-family: 'Roboto', sans-serif;
+    font-size: 25px;
+
+}
+
+.subtitle{
+    margin-top: 20px;
+    font-size: 18px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: normal;
+}
+
+
+/* /about-course-section */
+
+
+/* format-section   */
+
+.format-section{
+    margin-bottom: 162px;
+}
+.format {
+    font-family: 'Roboto Slab', sans-serif ;
+    font-size: 55px;
+    font-weight: 700;
+    margin-left: 121px;
+    
+}
+
+.block-format {
+    max-width: 1440px;
+    display: flex;
+    font-family: Roboto, sans-serif;
+    color: #000000;
+}
+
+.access {
+    display: inline-block;
+}
+.webinars {
+    font-weight: bold;
+    font-size: 25px;
+    color: #1E4681;
+    position: relative;
+    margin-left: 124px;
+    margin-top: 52px;
+    margin-bottom: 5px;
+}
+.communication {
+    font-size: 18px;
+    margin-left: 122px;
+    line-height: 130%;
+}
+/* /format-section   */
+
+/* what-to-know-section */
+
+.what-to-know-section{
+    margin-bottom: 162px;
+}
+.head-wtks{
+    display: flex;
+}
+.what-learn {
+    font-family: 'Roboto Slab', sans-serif ;
+    font-size: 55px;
+    font-weight: 700;
+    margin-left: 121px;
+    margin-right: 407px;
+}
+.fencers{
+    margin-top: -28px;
+}
+.block-format2{
+    display: flex;
+    font-family: Roboto, sans-serif;
+    color: #000000;
+}
+.learn-list {
+    font-size: 24px;;
+    width: 662px;
+    height: 374px;
+    margin-left: 112px;
+    line-height: 150%;
+}
+.dragon{
+    margin-top: 137px;
+    margin-left: 50px;
+}
+/* /what-to-know-section */
+
+/* program-section */
+
+.container-program{
+    width: 100%;
+}
+.section-head{
+    white-space: nowrap;
     display: flex;
     justify-content: space-between;
+    align-items: center;
 }
-.contact{
-    margin-right: 170px;
-    margin-top: 27px;
-    font-family: 'Roboto', sans-serif;
-    font-size: 25px;    
-    font-weight: 400;
-}
-.phnumber{
-    margin-right: 25px ;
-}
-.phon{
-    margin-bottom: 0;
-}
-.email{
-    margin-top: 10px;
-}
-.container-author{
-    margin-top: 340px;
-    width: 100%;
+ .line {
+    font-weight: 900;
+    height: 14px;  
+    background-color: black;
+    margin: 0;
+    width: 630px;
  }
 
-.author{
+
+.text {
+    display: flex;
+    font-family: Roboto Slab,sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 55px;
+    line-height: 101.38%;
+    margin-left: 121px;
+    margin-right: 178px;
+    
+    
+}
+.block {
+    margin-top: 95px;
+    flex-wrap: wrap;
+    margin-left: 49px;
+
+}
+
+.block-item {
+    margin-right: 22px;
+    margin-top: 24px;
+    margin-left: 22px;
+    width: 399px;
+    height: 328px;
+    box-shadow: 1px 1px 15px rgba(0, 0, 0, 0.25);
+    border-radius: 30px;
+}
+
+.block-h {
+    margin-top: 11px;
+    margin-left: 20px;
+    font-family: Roboto,sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 30px;
+    line-height: 130%;
+}
+
+.block-text {
+    margin-top: 32px;
+    margin-left: 20px;
+    font-family: Roboto,sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 25px;
+    line-height: 130%;
+}
+.block-h8{
+    line-height: 97%;
+    margin-top: 11px;
+    margin-left: 20px;
+    font-family: Roboto,sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 30px;
+}
+
+.block-text8 {
+    margin-top: 10px;
+    margin-left: 20px;
+    font-family: Roboto,sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 25px;
+    line-height: 130%;
+}
+
+.block1{
+    display: flex;
+    margin-bottom: 41px;
+}
+
+.block2 {
+    display: flex; 
+    margin-bottom: 45px;  
+}
+
+.block3 {
+    display: flex;
+}
+
+.geek{
+    margin-top: 285px;
+    margin-left: 152px;
+}
+/* /program-section */
+
+/* authors-section */
+.authors-section {
+    margin-top: 200px;
+}
+
+.container-author{
+    width: 100%;
+ }
+ .author{
     margin: 0;
 }
 
@@ -569,12 +438,10 @@ footer{
 
 .authors-block2 {
     position: relative;
-    margin-left: 993px;
+    margin-left: 211px;
     margin-top: -36px;
     
 }
-
-
 
 .name2 {
     font-family: 'Roboto Slab',sans-serif;
@@ -583,31 +450,35 @@ footer{
     font-size: 30px;
     line-height: 101.38%;
     margin-bottom: 15px;
+    margin-left: 205px;
 }
 
 .subname2 {
     position: relative;
-    margin: 0;
     font-family: 'Roboto',sans-serif;
     font-style: normal;
     font-weight: normal;
     font-size: 18px;
     line-height: 130%;
+    margin-left: 205px;
 }
 
 .face2{
     position: absolute;
     width: 180px;
     height: 166px;
-    margin-left: 787px;
     margin-top: -31px;
   
+}
+
+.authors-block2{
+    margin-left: 772px;
 }
 
 .info {
     right: 116px;
     position: absolute;
-    bottom: 52px;
+    bottom: 72px;
    
 
 }
@@ -682,6 +553,81 @@ footer{
     margin:0;
 }
 
+/* /authors-section */
+
+/* reviews-section */
+.reviews-section{
+    margin-top: 300px;
+}
+.study {
+    width: 100%;
+    height: 740px;
+    background: #EFEFEF;
+    
+}
+.course {
+    font-family: Roboto Slab;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 55px;
+    line-height: 101.38%;
+    color: #000000;
+    margin-left: 121px;
+    padding: 70px 0px 0px;
+    box-sizing: border-box;
+}
+.feedback {
+    width: 791px;
+    height: 451px;
+    background-color: white;
+    margin-left: 126px;
+    border: 1px solid white;
+    border-radius: 30px;
+}
+
+.comment {
+    width: 700px;
+    height: 203px;
+    margin: 40px 46px 0px 45px;
+    font-family: Roboto;
+    font-size: 20px;
+    line-height: 150%;
+    color: #000000;
+}
+.response {
+    display: flex;
+    flex-direction: row;
+}
+
+.photo2 {
+    width: 190px;
+    height: 169px;
+    margin: 15px 0px 0px 26px; 
+}
+.social-name {
+    margin-left: -20px;
+}
+.firstname {
+    width: 353px;
+    height: 59px;
+    margin: 40px 0px 0px 56px;
+    font-family: Roboto Slab;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 30px;
+    line-height: 101.38%;
+    color: #000000;
+}
+
+.facebook {
+    width: 32px;
+    height: 31px;
+    margin-left: 56px;
+}
+
+/* /reviews-section */
+
+/* begin-section */
 .begin {
     display: flex;
     flex-direction: column;
@@ -725,11 +671,9 @@ footer{
 .levels {
     display: flex;
     flex-direction: column;
-    
     width: 294px;
     margin: 10px 0px 0px -7px;
 }
-
 .come {
     display: flex;
     flex-direction: column;
@@ -754,34 +698,98 @@ footer{
 }
 
 
-  
+/* /begin-section  */
 
-    /* header-section */
+/* footer-section */
+footer{
+    box-sizing: border-box;
+    background-color: black;
+    max-width: 1440px;
+    width: 100%;
+    height: 390px;
+    color: white;
+}
+.podval{
+    display: flex;
+    justify-content: space-between;
+}
+.foot{
+    margin-top: 20px;
+    margin-left: 122px;
+}
+.contact{
+    margin-right: 170px;
+    margin-top: 27px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 25px;    
+    font-weight: 400;
+}
+.phon{
+    margin-bottom: 0;
+}
+.email{
+    margin-top: 10px;
+}
+.social{
+    margin-left: 121px;
+}
+.datafooter{
+    margin-left: 122px;
+    margin-top: 140px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+} 
+.instagram{
+ margin-right: 15px;
+ height: 33px;
+ width: 33px;
+}
+.facebook2{
+    margin-right: 16px;
+    height: 33px;
+    width: 33px;
+}
+.vk{
+    margin-right: 22px;
+    height: 33px;
+    width: 33px;
+}
+.whats{
+    margin-right: 22px;
+    height: 33px;
+    width: 33px;
+}
+/* /footer-section */
 
-    /* about-course-section */
+@media screen and (min-width:834px) and (max-width:1279px){
 
-    /* about-course-section */
+/* header-section */
+/* header-section */
 
-    /* format-section */
+/* about-course-section */
+/* about-course-section */
 
-    /* format-section */
+/* format-section */
+/* format-section */
 
-    /* what-to-know-section */
-    /* what-to-know-section */
+/* what-to-know-section */
+/* what-to-know-section */
 
-    /* program-section */
+/* program-section */
+/* program-section */
 
-    /* program-section */
+/* authors-section */
+/* authors-section */
 
-    /* authors-section */
-    /* authors-section */
+/* reviews-section */
+/* reviews-section */
 
-    /* reviews-section */
-    /* reviews-section */
+/* begin-section */
+/* begin-section */
 
-    /* begin-section */
-    /* begin-section */
+/* footer-section */
+/* footer-section */
 
-    /* footer-section */
-    /* footer-section */
 
+}
