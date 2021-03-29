@@ -766,6 +766,7 @@ footer{
 @media screen and (min-width:834px) and (max-width:1279px){
 .page-section{
     max-width: 1279px;
+    margin: 0 auto ;
 }
 
 /* header-section */
