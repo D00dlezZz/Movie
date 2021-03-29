@@ -766,6 +766,78 @@ footer{
 @media screen and (min-width:834px) and (max-width:1279px){
 
 /* header-section */
+.logo{
+  margin-top: 22px;
+  width: 65px;
+  height: 38px;
+  margin-left: 70px;
+}
+.film{
+  width: 364px;
+  height: 110px;
+  font-weight: 700;
+  font-size: 46px;
+  line-height: 46px;
+  
+}
+.obsh{
+  margin-left: 70px;
+}
+.onet{
+  margin-right: 15px;
+  margin-left: 3px;
+}
+.twot{
+  margin-right: 12px;
+  margin-left: 4px;
+}
+.threet{
+  margin-left: 5px;
+}
+.onet, .twot, .threet{
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 13,8px;
+  white-space: nowrap;
+  margin-top: 0;
+}
+.niz{
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 18px;
+  margin-top: 0px;
+}
+.chel{
+  margin-right: 0;
+  margin-top: 105px;
+  margin-left: 100px;
+  width: 176px;
+  height: 206px;
+}
+.amenu{
+  margin-right: 0;
+}
+.imghead{
+  width: 12.74px;
+  height: 12.16px;
+}
+.visitka{
+  width: 288px;
+  height: 136px;
+  margin-left: 233px;
+}
+.nach{
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 18px;
+}
+.endi{
+  font-weight: 400;
+  font-size: 12px;
+  padding-top: 15px;
+
+}
+
 /* header-section */
 
 /* about-course-section */
@@ -790,7 +862,65 @@ footer{
 /* begin-section */
 
 /* footer-section */
+footer{
+  width: 834px;
+  height: 225.88px;
+}
+.foot{
+width: 66px;
+height: 39px;
+margin-left: 70px;
+}
+.social{
+margin-left: 70px;
+margin-top: 0;
+}
+.datafooter{
+  margin-left: 70px;
+  margin-top: 0;
+}
+.instagram{
+width: 19.11px;
+height: 19.11px;
+}
+.facebook2{
+width: 18.53px;
+height: 18.53px;
+}
+.vk{
+width: 20.27px;
+height: 20.27px;
+}
+.whats{
+width: 19.69px;
+height: 19.69px;
+}
+.phnumberph{
+  width: 15.64px;
+  height: 15.64px;
+}
+.phnumberem{
+  width: 15.64px;
+  height: 10.43px;
+}
+.phon, .email{
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 14.19px;
+}
+.phnumber{
+  margin-right: 10px;
+}
+.contact{
+  margin-top: 10px;
+  margin-right: 100px;
+}
+.datafooter{
+  font-weight: 400;
+  font-size: 10px;
+  line-height: 10.14px;
+  margin-top: 55px;
+}
 /* footer-section */
-
 
 }
