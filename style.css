@@ -764,11 +764,65 @@ footer{
 /* /footer-section */
 
 @media screen and (min-width:834px) and (max-width:1279px){
+.page-section{
+    max-width: 1279px;
+}
 
 /* header-section */
 /* header-section */
 
 /* about-course-section */
+.aboux{
+    font-size: 32px;
+}
+.text-a{
+    font-size: 14px;
+    line-height: 150%;
+    width: 425px;
+   
+}
+.camera1{
+    height: 200px;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+.text-a p{
+    width: 410px;
+}
+
+.camera2{
+    width: 135px;
+    margin-top: 26px;
+    margin-left: 121px;
+    margin-right: 0px;
+}
+.title{
+    font-size: 15px;
+    margin-bottom: 5px;
+}
+.subtitle{
+    font-size: 11px;
+    margin: 0;
+}
+.item1{
+    margin-left: 76px;
+    margin-top: 53px;
+    margin-right: 55px;
+    width: 87px;
+  
+}
+.item2{
+    margin-top: 53px;
+    margin-right: 24px;
+    width: 117px;
+
+}
+.item3{
+    margin-top: 53px;
+    margin-right: 0;
+    width: 87px;
+ 
+}
 /* about-course-section */
 
 /* format-section */
