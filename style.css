@@ -773,26 +773,32 @@ footer{
   margin-left: 70px;
 }
 .film{
+  font-family: Roboto Slab;
   width: 364px;
   height: 110px;
   font-weight: 700;
   font-size: 46px;
   line-height: 46px;
-  
+  margin-bottom: 3px;
+}
+.tmenu{
+    margin-top: 55px;
+    margin-bottom: 7px;
 }
 .obsh{
   margin-left: 70px;
 }
 .onet{
-  margin-right: 15px;
-  margin-left: 3px;
+  margin-right: 22px;
+  margin-left: 5px;
 }
 .twot{
-  margin-right: 12px;
+  margin-right: 26px;
   margin-left: 4px;
 }
 .threet{
-  margin-left: 5px;
+  margin-left: 7px;
+  margin-right: 5px;
 }
 .onet, .twot, .threet{
   font-weight: 400;
@@ -809,8 +815,8 @@ footer{
 }
 .chel{
   margin-right: 0;
-  margin-top: 105px;
-  margin-left: 100px;
+  margin-top: 76px;
+  margin-left: 84px;
   width: 176px;
   height: 206px;
 }
@@ -821,20 +827,25 @@ footer{
   width: 12.74px;
   height: 12.16px;
 }
+
 .visitka{
-  width: 288px;
-  height: 136px;
+  width: 285px;
+  height: 117px;
   margin-left: 233px;
+  padding: 13px;
 }
 .nach{
   font-weight: 400;
   font-size: 14px;
   line-height: 18px;
+  margin-left: 8px;
+  
 }
 .endi{
   font-weight: 400;
   font-size: 12px;
-  padding-top: 15px;
+  padding-top: 5px;
+  padding-right: 10px;
 
 }
 
@@ -874,6 +885,7 @@ margin-left: 70px;
 .social{
 margin-left: 70px;
 margin-top: 0;
+margin-bottom: 80px;
 }
 .datafooter{
   margin-left: 70px;
@@ -882,14 +894,17 @@ margin-top: 0;
 .instagram{
 width: 19.11px;
 height: 19.11px;
+margin-right: 5px;
 }
 .facebook2{
 width: 18.53px;
 height: 18.53px;
+margin-right: 8px;
 }
 .vk{
 width: 20.27px;
 height: 20.27px;
+margin-right: 11px;
 }
 .whats{
 width: 19.69px;
@@ -909,17 +924,20 @@ height: 19.69px;
   line-height: 14.19px;
 }
 .phnumber{
-  margin-right: 10px;
+  margin-right: 15px;
 }
 .contact{
-  margin-top: 10px;
-  margin-right: 100px;
+  margin-top: 7px;
+  margin-right: 105px;
 }
 .datafooter{
   font-weight: 400;
   font-size: 10px;
   line-height: 10.14px;
   margin-top: 55px;
+}
+.podval{
+    height: 75px;
 }
 /* footer-section */
 
