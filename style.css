@@ -934,13 +934,26 @@ footer{
 .block-text{
     margin-top: 12px;
     font-size: 14px;
+    margin-left: 10px;
 }
 .block{
     margin-top: 61px;
 }
 
 .geek{
-    margin-left: 0;
+    margin-left: 78px;
+    width: 155px;
+    height: 124px;
+    margin-top: 140px;
+}
+.block-h8{
+    font-size: 17px;
+    margin-left: 10px;
+}
+.block-text8{
+    margin-top: 3px;
+    font-size: 14px;
+    margin-left: 10px;
 }
 
 
