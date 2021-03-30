@@ -908,6 +908,42 @@ footer{
 /* what-to-know-section */
 
 /* program-section */
+.text{
+    font-size: 32px;
+    margin-right: 108px;
+}
+
+.line{
+    width: 384px;
+    height: 8px;
+    min-width: 0;
+}
+
+.block-item{
+    width: 231px;
+    height: 189px;
+    min-width: 0;
+}
+.block-pick{
+    width: 100%;
+}
+.block-h{
+    font-size: 17px;
+    margin-left: 10px;
+}
+.block-text{
+    margin-top: 12px;
+    font-size: 14px;
+}
+.block{
+    margin-top: 61px;
+}
+
+.geek{
+    margin-left: 0;
+}
+
+
 /* program-section */
 
 /* authors-section */
