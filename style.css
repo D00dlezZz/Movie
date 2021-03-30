@@ -4,7 +4,7 @@
 
 
 .page-section{
-    max-width: 1440px;
+    max-width: 1280px;
     width: 100%;
     margin: 0 auto;
 }
@@ -767,7 +767,7 @@ footer{
 
 @media screen and (min-width:834px) and (max-width:1279px){
 .page-section{
-    max-width: 1279px;
+    max-width: 834px;
     margin: 0 auto ;
     width: 100%;
 }
