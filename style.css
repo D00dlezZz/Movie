@@ -845,13 +845,16 @@ footer{
 /* header-section */
 
 /* about-course-section */
+
 .aboux{
     font-size: 32px;
+    margin-left: 70px;
 }
 .text-a{
     font-size: 14px;
     line-height: 150%;
     width: 425px;
+    margin-left: 70px;
    
 }
 .camera1{
@@ -866,8 +869,8 @@ footer{
 .camera2{
     width: 135px;
     margin-top: 26px;
-    margin-left: 121px;
     margin-right: 0px;
+    margin-left: 70px;
 }
 .title{
     font-size: 15px;
