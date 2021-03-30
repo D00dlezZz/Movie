@@ -319,6 +319,7 @@ body{
     margin-top: 24px;
     margin-left: 22px;
     min-width: 399px;
+    width: 399px;
     height: 328px;
     box-shadow: 1px 1px 15px rgba(0, 0, 0, 0.25);
     border-radius: 30px;
@@ -972,6 +973,82 @@ footer{
 /* program-section */
 
 /* authors-section */
+
+.author{
+    margin-top: 62px;
+}
+
+.authors-h1{
+    font-size: 32px;
+    margin-left: 70px;
+}
+.face{
+    margin-left: 90px;
+    width: 110px;
+    height: 103px;
+
+}
+.authors-block{
+    margin-top: 107px;
+    margin-left: 213px;
+}
+.name{
+    font-size: 17px;
+    margin-bottom: 10px;
+}
+.subname{
+  font-size: 10px;
+}
+
+.info1{
+    width: 16px;
+    height: 16px;
+    left: 373px;
+    bottom: 22px;
+}
+
+.authors-block2{
+    margin-left: 428px;
+    margin-top: 7px;
+}
+
+.face2{
+    width: 110px;
+    height: 103px;
+}
+.name2{
+    margin-left: 124px;
+    font-size: 17px;
+    margin-bottom: 10px;
+}
+.subname2{
+    margin-left: 124px;
+  font-size: 10px;
+}
+.info{
+    width: 16px;
+    height: 16px;
+    left: 721px;
+    bottom: 45px;
+
+}
+.infotext2{
+    width: 231px;
+    height: 158px;
+    font-size: 10px;
+    padding: 18px 12px 10px 14px;
+    left: 195px;
+    top: 30px;
+}
+.infotext{
+    width: 231px;
+    height: 219px;
+    font-size: 10px;
+    left: 542px;
+    top: -299px;
+    padding: 14px 12px 14px 14px;
+}
+
 /* authors-section */
 
 /* reviews-section */
@@ -1048,7 +1125,6 @@ height: 19.69px;
     height: 75px;
 }
 /* footer-section */
-
 }
 
 @media screen and (min-width:375px) and (max-width:833px){
