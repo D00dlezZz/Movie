@@ -319,6 +319,7 @@ body{
     margin-top: 24px;
     margin-left: 22px;
     min-width: 399px;
+    width: 399px;
     height: 328px;
     box-shadow: 1px 1px 15px rgba(0, 0, 0, 0.25);
     border-radius: 30px;
@@ -1007,7 +1008,7 @@ footer{
 }
 
 .authors-block2{
-    margin-left: 406px;
+    margin-left: 428px;
     margin-top: 7px;
 }
 
@@ -1027,7 +1028,7 @@ footer{
 .info{
     width: 16px;
     height: 16px;
-    right: 128px;
+    left: 721px;
     bottom: 45px;
 
 }
@@ -1036,7 +1037,7 @@ footer{
     height: 158px;
     font-size: 10px;
     padding: 18px 12px 10px 14px;
-    left: 163px;
+    left: 195px;
     top: 30px;
 }
 .infotext{
@@ -1044,7 +1045,7 @@ footer{
     height: 219px;
     font-size: 10px;
     left: 542px;
-    top: -287px;
+    top: -299px;
     padding: 14px 12px 14px 14px;
 }
 
