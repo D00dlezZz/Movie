@@ -768,7 +768,6 @@ footer{
 @media screen and (min-width:834px) and (max-width:1279px){
 .page-section{
     max-width: 834px;
-    margin: 0 auto ;
     width: 100%;
 }
 
@@ -1040,8 +1039,9 @@ footer{
 
 /* authors-section */
 
-.author{
-    margin-top: 62px;
+.authors-section {
+    margin-top: 105px;
+    margin-bottom: 162px;
 }
 
 .authors-h1{
