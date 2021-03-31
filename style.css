@@ -143,6 +143,7 @@ body{
     margin-right: 32px;
     font-size: 24px;
     font-weight: 400;
+    flex-wrap: nowrap;
 
 }
 .camera1{
@@ -868,6 +869,7 @@ footer{
     line-height: 150%;
     width: 425px;
     margin-left: 70px;
+    flex-wrap: nowrap;
    
 }
 .camera1{
@@ -1320,6 +1322,56 @@ height: 19.69px;
   /* header-section */
   
   /* about-course-section */
+.aboux{
+    margin-left: 36px;
+    font-size: 26px;
+}
+.text-camera{
+    display: block;
+    margin-left: 36px;
+    margin-right: 36px;
+}
+.text-a{
+    margin-left: 0;
+    margin-right: 0;
+    flex-wrap: nowrap;
+    font-size: 13px;
+}
+
+.camera1{
+    width: 146px;
+    height: 146px;
+    margin-left: 84px;
+    margin-top: 0;
+}
+.camera2{
+    width: 108px;
+    height: 95px;
+    margin: 0;
+    position: absolute;
+    left: 224px;
+    top: 1px;
+}
+.item1{
+    margin: 0;
+}
+.item2{
+    margin: 0;
+}
+.item3{
+    margin: 0;
+}
+.title{
+    font-size: 12px;
+}
+.subtitle{
+    width: 81px;
+    margin-top: 10px;
+    font-size: 10px;
+}
+.block-sub{
+display: block;
+}
   /* about-course-section */
   
   /* format-section */
