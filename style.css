@@ -4,7 +4,7 @@
 
 
 .page-section{
-    max-width: 1280px;
+    max-width: 1440px;
     width: 100%;
     margin: 0 auto;
 }
@@ -291,7 +291,7 @@ body{
     height: 14px;  
     background-color: black;
     margin: 0;
-    min-width: 780px;
+    width: 780px;
  }
 
 
