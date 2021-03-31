@@ -1316,10 +1316,67 @@ height: 19.69px;
 }
 
 @media screen and (min-width:375px) and (max-width:833px){
+
   /* header-section */
   /* header-section */
   
   /* about-course-section */
+  .aboux{
+    margin-left: 36px;
+    font-size: 26px;
+}
+.text-camera{
+    display: block;
+    margin-left: 36px;
+    margin-right: 36px;
+}
+.text-a{
+    margin-left: 0;
+    margin-right: 0;
+    flex-wrap: nowrap;
+    font-size: 13px;
+}
+
+.camera1{
+    width: 146px;
+    height: 146px;
+    margin-left: 84px;
+    margin-top: 0;
+}
+.camera2{
+    width: 108px;
+    height: 95px;
+    margin: 0;
+    position: absolute;
+    left: 220px;
+    top: 520px;
+
+}
+.item1{
+    margin: 0 43px 0 36px;
+    width: 80px;
+}
+.item2{
+    margin: 0;
+}
+.item3{
+    margin: 0 0 0 36px;
+}
+.title{
+    font-size: 12px;
+    margin-bottom: 0;
+}
+.subtitle{
+    width: 81px;
+    margin-top: 10px;
+    font-size: 10px;
+}
+.block-sub{
+    display: block;
+}
+.container-sct2{
+    position: relative;
+}
   /* about-course-section */
   
   /* format-section */
