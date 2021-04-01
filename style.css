@@ -55,11 +55,13 @@ body {
 }
 
 .film {
+    font-family: 'Roboto Slab', sans-serif;
     font-size: 80px;
     font-weight: 700;
     margin: 0;
     margin-top: -7px;
     line-height: 81.11px;
+    margin-right: 200px;
 }
 
 .niz {
@@ -69,16 +71,10 @@ body {
     line-height: 30px;
 }
 
-.amenu {
-    margin-right: 103px;
-}
-
 .chel {
-    margin-right: 246px;
     margin-top: 130px;
-    margin-left: 150px;
-    width: 304px;
-    height: 356px;
+    width: 314px;
+    height: 375px;
 }
 
 .visitka {
@@ -87,8 +83,6 @@ body {
     height: 200px;
     width: 486px;
     text-align: start;
-    left: 630px;
-    top: 670px;
     border: 5px;
     border-radius: 5px;
     transform: rotate(-4deg);
@@ -100,15 +94,15 @@ body {
     box-sizing: border-box;
     padding-left: 30px;
     padding-top: 17px;
-    margin-left: 403px;
-    margin-top: 49px;
+    margin-left: 405px;
+    margin-top: 70px;
 }
 
 .endi {
     padding-right: 20px;
     font-family: 'Roboto', sans-serif;
     font-style: normal;
-    font-weight: normal;
+    font-weight: 300;
     text-align: right;
     font-size: 20px;
     margin: 0;
@@ -766,8 +760,8 @@ footer {
 }
 
 .contact {
-    margin-right: 170px;
-    margin-top: 27px;
+    margin-right: 175px;
+    margin-top: 30px;
     font-family: 'Roboto', sans-serif;
     font-size: 25px;
     font-weight: 400;
@@ -783,6 +777,10 @@ footer {
 
 .social {
     margin-left: 121px;
+}
+
+.phnumber {
+    margin-right: 25px;
 }
 
 .datafooter {
@@ -1420,7 +1418,7 @@ footer {
     /* begin-section */
     /* footer-section */
     footer {
-        width: 375px;
+        width: 100%;
         height: 251px;
     }
     .foot {
