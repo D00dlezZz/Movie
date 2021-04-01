@@ -1386,6 +1386,66 @@ height: 19.69px;
   /* what-to-know-section */
   
   /* program-section */
+.text{
+    font-size: 26px;
+    margin-left: 34px;
+    margin-right: 34px;
+}
+.block {
+    margin-top: 35px;
+    margin-left: 0;
+}
+.block1{
+    display: block;
+}
+.block2{
+    display: block;  
+    margin-top: -16px;
+}
+.block3{
+    display: block;
+    margin-top: -16px;  
+
+}
+.geek{
+    display: none;
+}
+.line{
+    width: 293px;
+    height: 7px;
+}
+.block-item{
+    border-radius: 13px;
+    width: 185px;
+    min-width: 185px;
+    height: 152px;
+    margin: 0 auto 24px;
+
+}
+.block-pick{
+    width: 100%;
+}
+.block-h{
+    margin-left: 9px;
+    margin-top: 0;
+    font-size: 14px;
+}
+.block-text{
+    margin-left: 9px;
+    font-size: 12px;
+    margin-top: 8px;
+}
+.block-h8{
+    margin-left: 9px;
+    margin-top: 0;
+    font-size: 14px;
+}
+.block-text8{
+    margin-left: 9px;
+    font-size: 12px;
+    margin-top: 8px;
+}
+
   /* program-section */
   
   /* authors-section */
