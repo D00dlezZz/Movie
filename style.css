@@ -1428,6 +1428,7 @@ footer {
         margin-right: 36px;
     }
     .text-a {
+        width: 309px;
         margin-left: 0;
         margin-right: 0;
         flex-wrap: nowrap;
@@ -1467,6 +1468,7 @@ footer {
         font-size: 10px;
     }
     .block-sub {
+        flex-wrap: nowrap;
         display: block;
     }
     .container-sct2 {
