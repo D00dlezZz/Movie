@@ -1548,6 +1548,89 @@ footer {
   }
   /* program-section */
   /* authors-section */
+
+.authors-section {
+    margin-top: 76px;
+}
+  .authors-h1{
+      font-size: 26px;
+      margin-left: 36px;
+      margin-bottom: 0;
+  }
+  .face{
+      width: 88px;
+      height: 82px;
+      margin-left: 25px;
+      margin-top: 22px;
+  }
+  .name{
+      margin-bottom: 0;
+      font-size: 14px;
+
+  }
+  .subname{
+      margin-top: 10px;
+      font-size: 10px;
+  }
+ 
+
+    .authors-block{
+        margin-left: 123px;
+        margin-top: 43px;
+    }
+    .info{
+        display: none;
+    }
+    .info1{
+        display: none;
+    }
+    .infotext2{
+        display: block;
+        font-size: 10px;
+        width: 214px;
+        height: 124px;
+        box-shadow: none;
+        position: static;
+        margin-left: 123px;
+        margin-top: 27px;
+        padding: 0;
+    }
+    .authors-block2{
+        margin-left: 28px;
+        margin-top: 89px;
+  
+    }
+    .face2{
+        width: 88px;
+        height: 82px;
+        margin-top: -17px;
+    }
+    .name2{
+        margin-bottom: 0;
+        font-size: 14px;
+        margin-left: 93px;
+        margin-top: 0;
+  
+    }
+    .subname2{
+        margin-top: 10px;
+        font-size: 10px;
+        margin-left: 93px;
+    }
+
+    .infotext{
+        display: block;
+        font-size: 10px;
+        width: 214px;
+        height: 124px;
+        box-shadow: none;
+        position: static;
+        margin-left: 123px;
+        margin-top: 27px;
+        padding: 0;
+    }
+
+
   /* authors-section */
   /* reviews-section */
   .reviews-section {
