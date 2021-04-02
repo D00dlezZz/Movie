@@ -152,7 +152,8 @@ body {
 
 .camera1 {
     margin-top: 60px;
-    margin-left: 195px;
+    margin-left: 186px;
+    margin-right: 34px;
 }
 
 .block-sub {
@@ -1468,6 +1469,7 @@ footer {
         font-size: 10px;
     }
     .block-sub {
+        width: 317px;
         flex-wrap: nowrap;
         display: block;
     }
@@ -1543,6 +1545,10 @@ footer {
     }
     /* what-to-know-section */
     /* program-section */
+
+    .section-head{
+        justify-content: none;
+    }
     .text {
         font-size: 26px;
         margin-left: 34px;
@@ -1575,7 +1581,8 @@ footer {
         width: 185px;
         min-width: 185px;
         height: 152px;
-        margin: 0 auto 24px;
+        margin-bottom: 24px;
+        margin-left: 95px;
     }
     .block-pick {
         width: 100%;
