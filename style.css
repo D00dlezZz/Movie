@@ -326,7 +326,7 @@ body {
 }
 
 .block-item {
-  margin-right: 22px;
+  margin-right: 20px;
   margin-top: 24px;
   margin-left: 22px;
   min-width: 399px;
@@ -378,12 +378,12 @@ body {
 
 .block1 {
   display: flex;
-  margin-bottom: 41px;
+  margin-bottom: 18px;
 }
 
 .block2 {
   display: flex;
-  margin-bottom: 45px;
+  margin-bottom: 18px;
 }
 
 .block3 {
@@ -392,7 +392,7 @@ body {
 
 .geek {
   margin-top: 285px;
-  margin-left: 152px;
+  margin-left: 137px;
 }
 
 /* /program-section */
