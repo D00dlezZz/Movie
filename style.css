@@ -1548,14 +1548,15 @@ footer {
   }
   .block1 {
     display: block;
+    margin-bottom: 24px;
   }
   .block2 {
     display: block;
-    margin-top: -16px;
+    margin-bottom: 24px;
   }
   .block3 {
     display: block;
-    margin-top: -16px;
+   
   }
   .geek {
     display: none;
