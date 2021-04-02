@@ -488,6 +488,7 @@ body {
     font-size: 18px;
     line-height: 130%;
     margin-left: 205px;
+    min-width: 375px;
 }
 
 .face2 {
@@ -505,6 +506,8 @@ body {
     right: 116px;
     position: absolute;
     bottom: 72px;
+    left: 505px;
+    flex-wrap: nowrap;
 }
 
 .hover-text {
