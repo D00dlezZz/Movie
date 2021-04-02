@@ -1536,6 +1536,7 @@ footer {
 
   .section-head {
     justify-content: none;
+    margin-bottom: 55px;
   }
   .text {
     font-size: 26px;
