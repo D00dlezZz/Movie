@@ -1,0 +1,1859 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&family=Roboto+Slab:wght@100;200;300;400;500;600;700;800;900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700;900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@700&family=Roboto:wght@300;400;500&display=swap");
+.page-section {
+  max-width: 1440px;
+  width: 100%;
+  margin: 0 auto;
+}
+
+body {
+  margin: 0;
+}
+
+/* Header-section */
+
+.header-section {
+  margin-bottom: 162px;
+}
+
+.logo {
+  margin-top: 21px;
+  width: 112px;
+  height: 66px;
+  margin-left: 121px;
+}
+
+.obsh {
+  display: flex;
+  margin-left: 121px;
+}
+
+.tmenu {
+  font-family: "Roboto", sans-serif;
+  margin-top: 73px;
+  margin-bottom: 10px;
+  display: flex;
+  font-size: 20px;
+  font-weight: 400;
+}
+
+.onet {
+  font-size: 20px;
+  margin-left: 8px;
+  margin-right: 40px;
+}
+
+.twot {
+  margin-left: 9px;
+  margin-right: 47px;
+}
+
+.threet {
+  margin-left: 12px;
+}
+
+.film {
+  font-family: "Roboto Slab", sans-serif;
+  font-size: 80px;
+  font-weight: 700;
+  margin: 0;
+  margin-top: -7px;
+  line-height: 81.11px;
+  margin-right: 200px;
+}
+
+.niz {
+  margin-top: 32px;
+  font-family: "Roboto", sans-serif;
+  font-size: 20px;
+  line-height: 30px;
+}
+
+.chel {
+  margin-top: 130px;
+  width: 314px;
+  height: 375px;
+}
+
+.visitka {
+  background-color: #1e4681;
+  color: white;
+  height: 200px;
+  width: 486px;
+  text-align: start;
+  border: 5px;
+  border-radius: 5px;
+  transform: rotate(-4deg);
+  font-family: "Roboto Slab", serif;
+  font-weight: 400;
+  font-size: 25px;
+  line-height: 32px;
+  text-align: left;
+  box-sizing: border-box;
+  padding-left: 30px;
+  padding-top: 17px;
+  margin-left: 405px;
+  margin-top: 70px;
+}
+
+.endi {
+  padding-right: 20px;
+  font-family: "Roboto", sans-serif;
+  font-style: normal;
+  font-weight: 300;
+  text-align: right;
+  font-size: 20px;
+  margin: 0;
+}
+
+.nach {
+  margin: 0;
+}
+
+/* /Header-section */
+
+/* about-course-section */
+
+.about-course-section {
+  margin-bottom: 162px;
+}
+
+.container-sct2 {
+  width: 100%;
+  display: block;
+  font-family: "Roboto", sans-serif;
+}
+
+.aboux {
+  font-family: "Roboto Slab", sans-serif;
+  font-size: 55px;
+  font-weight: 700;
+  margin-top: 91px;
+  margin-left: 121px;
+}
+
+.text-camera {
+  display: flex;
+}
+
+.text-a {
+  font-family: Roboto, sans-serif;
+  line-height: 150%;
+  display: block;
+  margin-left: 121px;
+  margin-right: 159px;
+  font-size: 24px;
+  font-weight: 400;
+  max-width: 655px;
+}
+
+.camera1 {
+  margin-top: 60px;
+}
+
+.block-sub {
+  display: flex;
+  left: 472px;
+  top: 719px;
+}
+
+.camera2 {
+  margin-right: 132px;
+  margin-left: 121px;
+  margin-top: 70px;
+}
+
+.item1 {
+  margin-top: 110px;
+  margin-right: 104px;
+  display: inline-block;
+  width: 150px;
+  height: 90px;
+}
+
+.item2 {
+  margin-top: 110px;
+  margin-right: 104px;
+  display: inline-block;
+  width: 150px;
+  height: 90px;
+}
+
+.item3 {
+  margin-right: 104px;
+  margin-top: 110px;
+  display: inline-block;
+  width: 150px;
+  height: 90px;
+}
+
+.title {
+  font-family: "Roboto", sans-serif;
+  font-size: 25px;
+}
+
+.subtitle {
+  margin-top: 20px;
+  font-size: 18px;
+  font-family: "Roboto", sans-serif;
+  font-weight: normal;
+}
+
+/* /about-course-section */
+
+/* format-section   */
+
+.format-section {
+  margin-bottom: 162px;
+}
+
+.format {
+  font-family: "Roboto Slab", sans-serif;
+  font-size: 55px;
+  font-weight: 700;
+  margin-left: 121px;
+}
+
+.block-format {
+  max-width: 1440px;
+  display: flex;
+  font-family: Roboto, sans-serif;
+  color: #000000;
+}
+
+.access {
+  display: inline-block;
+}
+
+.webinars {
+  font-weight: bold;
+  font-size: 25px;
+  color: #1e4681;
+  position: relative;
+  margin-left: 124px;
+  margin-top: 52px;
+  margin-bottom: 5px;
+}
+
+.communication {
+  font-size: 18px;
+  margin-left: 122px;
+  line-height: 130%;
+}
+
+/* /format-section   */
+
+/* what-to-know-section */
+
+.what-to-know-section {
+  margin-bottom: 162px;
+}
+
+.head-wtks {
+  display: flex;
+}
+
+.what-learn {
+  font-family: "Roboto Slab", sans-serif;
+  font-size: 55px;
+  font-weight: 700;
+  margin-left: 121px;
+  margin-right: 407px;
+}
+
+.fencers {
+  margin-top: -28px;
+}
+
+.block-format2 {
+  display: flex;
+  font-family: Roboto, sans-serif;
+  color: #000000;
+}
+
+.learn-list {
+  font-size: 24px;
+  width: 662px;
+  height: 374px;
+  margin-left: 112px;
+  line-height: 150%;
+}
+
+.dragon {
+  margin-top: 137px;
+  margin-left: 50px;
+}
+
+/* /what-to-know-section */
+
+/* program-section */
+
+.container-program {
+  width: 100%;
+}
+
+.section-head {
+  white-space: nowrap;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.line {
+  font-weight: 900;
+  height: 14px;
+  background-color: black;
+  margin: 0;
+  width: 780px;
+}
+
+.text {
+  display: flex;
+  font-family: Roboto Slab, sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 55px;
+  line-height: 101.38%;
+  margin-left: 121px;
+  margin-right: 178px;
+}
+
+.block {
+  margin-top: 95px;
+  flex-wrap: wrap;
+  margin-left: 49px;
+}
+
+.block-item {
+  margin-right: 20px;
+  margin-top: 24px;
+  margin-left: 22px;
+  min-width: 399px;
+  width: 399px;
+  height: 328px;
+  box-shadow: 1px 1px 15px rgba(0, 0, 0, 0.25);
+  border-radius: 30px;
+}
+
+.block-h {
+  margin-top: 11px;
+  margin-left: 20px;
+  font-family: Roboto, sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 30px;
+  line-height: 130%;
+}
+
+.block-text {
+  margin-top: 32px;
+  margin-left: 20px;
+  font-family: Roboto, sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 25px;
+  line-height: 130%;
+}
+
+.block-h8 {
+  line-height: 97%;
+  margin-top: 11px;
+  margin-left: 20px;
+  font-family: Roboto, sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 30px;
+}
+
+.block-text8 {
+  margin-top: 10px;
+  margin-left: 20px;
+  font-family: Roboto, sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 25px;
+  line-height: 130%;
+}
+
+.block1 {
+  display: flex;
+  margin-bottom: 18px;
+}
+
+.block2 {
+  display: flex;
+  margin-bottom: 18px;
+}
+
+.block3 {
+  display: flex;
+}
+
+.geek {
+  margin-top: 285px;
+  margin-left: 137px;
+}
+
+/* /program-section */
+
+/* authors-section */
+
+.authors-section {
+  margin-top: 200px;
+}
+
+.container-author {
+  width: 100%;
+}
+
+.author {
+  margin: 0;
+}
+
+.authors-h1 {
+  font-family: "Roboto Slab", sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 55px;
+  line-height: 101.38%;
+  margin-left: 122px;
+  margin-bottom: 76px;
+}
+
+.name {
+  font-family: "Roboto Slab", sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 30px;
+  line-height: 101.38%;
+  margin-bottom: 15px;
+}
+
+.subname {
+  margin: 0;
+  font-family: "Roboto", sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 130%;
+}
+
+.face {
+  position: absolute;
+  margin-left: 156px;
+  width: 180px;
+  height: 166px;
+}
+
+.authors-block {
+  position: relative;
+  margin-top: 129px;
+  margin-left: 365px;
+}
+
+.authors-block2 {
+  position: relative;
+  margin-left: 211px;
+  margin-top: -36px;
+}
+
+.name2 {
+  font-family: "Roboto Slab", sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 30px;
+  line-height: 101.38%;
+  margin-bottom: 15px;
+  margin-left: 205px;
+}
+
+.subname2 {
+  position: relative;
+  font-family: "Roboto", sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 130%;
+  margin-left: 205px;
+  min-width: 375px;
+}
+
+.face2 {
+  position: absolute;
+  width: 180px;
+  height: 166px;
+  margin-top: -31px;
+}
+
+.authors-block2 {
+  margin-left: 772px;
+}
+
+.info {
+  position: absolute;
+  bottom: 72px;
+  left: 492px;
+}
+
+.hover-text {
+  position: relative;
+}
+
+.info1 {
+  position: absolute;
+  left: 655px;
+  bottom: 30px;
+}
+
+.hover-text:hover .infotext2 {
+  display: block;
+}
+
+.hover-text2 {
+  position: relative;
+}
+
+.hover-text2:hover .infotext {
+  display: block;
+}
+
+.infotext {
+  display: none;
+  box-sizing: border-box;
+  flex-direction: column;
+  position: absolute;
+  font-family: "Roboto", sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 130%;
+  box-shadow: 1px 1px 15px rgba(0, 0, 0, 0.25);
+  border-radius: 30px;
+  width: 399px;
+  height: 379px;
+  padding: 24px 21px 24px 25px;
+  right: 102px;
+  left: 200px;
+  top: -540px;
+}
+
+.infotext p {
+  margin: 0;
+}
+
+.infotext2 {
+  display: none;
+  box-sizing: border-box;
+  flex-direction: column;
+  position: absolute;
+  font-family: "Roboto", sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 130%;
+  box-shadow: 1px 1px 15px rgba(0, 0, 0, 0.25);
+  border-radius: 30px;
+  width: 399px;
+  height: 274px;
+  padding: 31px 21px 17px 25px;
+  left: 338px;
+  top: 39px;
+}
+
+.infotext2 p {
+  margin: 0;
+}
+
+/* /authors-section */
+
+/* reviews-section */
+
+.reviews-section {
+  margin-top: 300px;
+}
+
+.study {
+  width: 100%;
+  height: 740px;
+  background: #efefef;
+}
+
+.course {
+  font-family: Roboto Slab;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 55px;
+  line-height: 101.38%;
+  color: #000000;
+  margin-left: 121px;
+  padding: 70px 0px 0px;
+  box-sizing: border-box;
+}
+
+.feedback {
+  width: 791px;
+  height: 451px;
+  background-color: white;
+  margin-left: 126px;
+  border: 1px solid white;
+  border-radius: 30px;
+  box-shadow: 1px 1px 20px rgba(0, 0, 0, 0.25);
+}
+
+.comment {
+  width: 700px;
+  height: 203px;
+  margin: 40px 46px 0px 45px;
+  font-family: Roboto;
+  font-size: 20px;
+  line-height: 150%;
+  color: #000000;
+}
+
+.response {
+  display: flex;
+  flex-direction: row;
+}
+
+.photo2 {
+  width: 190px;
+  height: 169px;
+  margin: 15px 0px 0px 26px;
+}
+
+.social-name {
+  margin-left: -20px;
+}
+
+.firstname {
+  width: 353px;
+  height: 59px;
+  margin: 40px 0px 0px 56px;
+  font-family: Roboto Slab;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 30px;
+  line-height: 101.38%;
+  color: #000000;
+}
+
+.facebook {
+  width: 32px;
+  height: 31px;
+  margin-left: 56px;
+}
+
+/* /reviews-section */
+
+/* begin-section */
+
+.begin {
+  display: flex;
+  flex-direction: column;
+  height: 740px;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  width: 100%;
+  background: #9dc9c8;
+}
+
+.september {
+  font-family: Roboto Slab;
+  width: 908px;
+  height: 66px;
+  margin: 180px 0px 0px 122px;
+  font-weight: bold;
+  font-size: 55px;
+  line-height: 101.38%;
+  color: #000000;
+}
+
+.cost {
+  width: 170px;
+  margin: 54px 0px 0px 121px;
+  font-size: 25px;
+  line-height: 101.38%;
+  color: #000000;
+}
+
+.price {
+  font-size: 80px;
+  line-height: 101.38%;
+  color: #000000;
+  margin: 2px 0px 0px 121px;
+}
+
+.information {
+  display: flex;
+  margin: 68px 0px 0px 129px;
+}
+
+.levels {
+  display: flex;
+  flex-direction: column;
+  width: 294px;
+  margin: 10px 0px 0px -7px;
+}
+
+.come {
+  display: flex;
+  flex-direction: column;
+  width: 294px;
+  margin: 10px 0px 0px 70px;
+}
+
+.level {
+  font-size: 25px;
+  line-height: 101.38%;
+  color: #000000;
+  margin: 0px 0px 0px;
+}
+
+.from0 {
+  font-family: Roboto;
+  height: 70px;
+  width: 294px;
+  font-size: 18px;
+  line-height: 110.38%;
+  color: #000000;
+}
+
+/* /begin-section  */
+
+/* footer-section */
+
+footer {
+  box-sizing: border-box;
+  background-color: black;
+  max-width: 1440px;
+  width: 100%;
+  height: 390px;
+  color: white;
+}
+
+.podval {
+  display: flex;
+  justify-content: space-between;
+}
+
+.foot {
+  margin-top: 20px;
+  margin-left: 122px;
+}
+
+.contact {
+  margin-right: 175px;
+  margin-top: 30px;
+  font-family: "Roboto", sans-serif;
+  font-size: 25px;
+  font-weight: 400;
+}
+
+.phon {
+  margin-bottom: 0;
+}
+
+.email {
+  margin-top: 10px;
+}
+
+.social {
+  margin-left: 121px;
+}
+
+.phnumber {
+  margin-right: 25px;
+}
+
+.datafooter {
+  margin-left: 122px;
+  margin-top: 140px;
+  font-family: "Roboto", sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+}
+
+.instagram {
+  margin-right: 15px;
+  height: 33px;
+  width: 33px;
+}
+
+.facebook2 {
+  margin-right: 16px;
+  height: 33px;
+  width: 33px;
+}
+
+.vk {
+  margin-right: 22px;
+  height: 33px;
+  width: 33px;
+}
+
+.whats {
+  margin-right: 22px;
+  height: 33px;
+  width: 33px;
+  /* /footer-section */
+}
+
+@media screen and (min-width: 834px) and (max-width: 1279px) {
+  .page-section {
+    max-width: 834px;
+    width: 100%;
+  }
+  /* header-section */
+  .logo {
+    margin-top: 22px;
+    width: 65px;
+    height: 38px;
+    margin-left: 70px;
+  }
+  .film {
+    font-family: Roboto Slab;
+    width: 364px;
+    height: 110px;
+    font-weight: 700;
+    font-size: 46px;
+    line-height: 46px;
+    margin-bottom: 3px;
+  }
+  .tmenu {
+    margin-top: 55px;
+    margin-bottom: 7px;
+  }
+  .obsh {
+    margin-left: 70px;
+  }
+  .onet {
+    margin-right: 22px;
+    margin-left: 5px;
+  }
+  .twot {
+    margin-right: 26px;
+    margin-left: 4px;
+  }
+  .threet {
+    margin-left: 7px;
+    margin-right: 5px;
+  }
+  .onet,
+  .twot,
+  .threet {
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 13px;
+    white-space: nowrap;
+    margin-top: 0;
+  }
+  .niz {
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 18px;
+    margin-top: 0px;
+  }
+  .chel {
+    margin-right: 0;
+    margin-top: 76px;
+    margin-left: -117px;
+    width: 176px;
+    height: 215px;
+  }
+  .amenu {
+    margin-right: 0;
+  }
+  .imghead {
+    width: 12.74px;
+    height: 12.16px;
+  }
+  .visitka {
+    width: 285px;
+    height: 117px;
+    margin-left: 233px;
+    padding: 13px;
+    margin-top: 40px;
+  }
+  .nach {
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 18px;
+    margin-left: 8px;
+  }
+  .endi {
+    font-weight: 400;
+    font-size: 12px;
+    padding-top: 5px;
+    padding-right: 10px;
+  }
+  /* header-section */
+  /* about-course-section */
+  .about-course-section {
+    margin-bottom: 90px;
+  }
+  .aboux {
+    margin-top: -65px;
+    font-size: 32px;
+    margin-left: 70px;
+  }
+  .text-a {
+    font-size: 14px;
+    line-height: 150%;
+    max-width: 425px;
+    margin-left: 70px;
+    margin-right: 85px;
+  }
+  .camera1 {
+    height: 200px;
+    margin-left: 20px;
+    margin-top: 20px;
+  }
+  .text-a p {
+    width: 376px;
+  }
+  .camera2 {
+    width: 135px;
+    margin-top: 26px;
+    margin-right: 0px;
+    margin-left: 70px;
+  }
+  .title {
+    font-size: 15px;
+    margin-bottom: 5px;
+  }
+  .subtitle {
+    font-size: 11px;
+    margin: 0;
+  }
+  .item1 {
+    margin-left: 76px;
+    margin-top: 53px;
+    margin-right: 55px;
+    width: 87px;
+  }
+  .item2 {
+    margin-top: 53px;
+    margin-right: 24px;
+    width: 117px;
+  }
+  .item3 {
+    margin-top: 53px;
+    margin-right: 0;
+    width: 87px;
+  }
+  /* about-course-section */
+  /* format-section */
+  .format-section {
+    margin-bottom: 108px;
+  }
+  .format {
+    font-size: 32px;
+    line-height: 101.38%;
+    margin-left: 70px;
+  }
+  .block-format {
+    max-width: 1279px;
+    display: flex;
+  }
+  .access {
+    margin-left: -2px;
+  }
+  .webinars {
+    font-size: 15px;
+    line-height: 80%;
+    margin: 50px 0px 0px 70px;
+  }
+  .communication {
+    font-size: 11px;
+    line-height: 130%;
+    margin-left: 69px;
+    margin-bottom: -20px;
+  }
+  /* format-section */
+  /* what-to-know-section */
+  .what-to-know-section {
+    margin-bottom: 130px;
+  }
+  .what-learn {
+    font-size: 32px;
+    margin-left: 70px;
+    margin-bottom: 10px;
+  }
+  .fencers {
+    width: 158.69px;
+    height: 92.67px;
+    margin-top: -6px;
+    margin-left: -160px;
+  }
+  .block-format2 {
+    display: flex;
+  }
+  .learn-list {
+    font-size: 14px;
+    width: 383px;
+    height: 217px;
+    margin-left: 40px;
+    line-height: 150%;
+  }
+  .dragon {
+    width: 224px;
+    height: 110px;
+    margin-top: 106px;
+    margin-left: 26px;
+  }
+  /* what-to-know-section */
+  /* program-section */
+  .block1 {
+    margin-bottom: 23px;
+  }
+  .block2 {
+    margin-bottom: 23px;
+  }
+  .text {
+    font-size: 32px;
+    margin-right: 108px;
+    margin-left: 70px;
+  }
+  .line {
+    width: 384px;
+    height: 8px;
+    min-width: 0;
+  }
+  .block-item {
+    border-radius: 20px;
+    width: 231px;
+    height: 189px;
+    min-width: 0;
+    margin-left: 0;
+    margin-top: 8px;
+  }
+  .block-pick {
+    width: 100%;
+  }
+  .block-h {
+    margin-bottom: 0;
+    margin-top: 5px;
+    font-size: 17px;
+    margin-left: 10px;
+  }
+  .block-text {
+    margin-top: 20px;
+    font-size: 14px;
+    margin-left: 10px;
+  }
+  .block {
+    margin-top: 61px;
+  }
+  .geek {
+    margin-left: 57px;
+    width: 155px;
+    height: 124px;
+    margin-top: 142px;
+  }
+  .block-h8 {
+    margin-top: 3px;
+    font-size: 17px;
+    margin-left: 10px;
+  }
+  .block-text8 {
+    margin-top: 3px;
+    font-size: 14px;
+    margin-left: 10px;
+  }
+  /* program-section */
+  /* authors-section */
+  .authors-section {
+    margin-top: 120px;
+    margin-bottom: 162px;
+  }
+  .authors-h1 {
+    font-size: 32px;
+    margin-left: 70px;
+  }
+  .face {
+    margin-left: 90px;
+    width: 110px;
+    height: 103px;
+    margin-top: -25px;
+  }
+  .authors-block {
+    margin-top: 79px;
+    margin-left: 213px;
+  }
+  .name {
+    font-size: 17px;
+    margin-bottom: 10px;
+  }
+  .subname {
+    font-size: 10px;
+  }
+  .info1 {
+    width: 25px;
+    height: 25px;
+    left: 375px;
+    bottom: 18px;
+  }
+  .authors-block2 {
+    margin-left: 434px;
+    margin-top: -15px;
+  }
+  .face2 {
+    width: 110px;
+    height: 103px;
+  }
+  .name2 {
+    margin-left: 120px;
+    font-size: 17px;
+    margin-bottom: -5px;
+  }
+  .subname2 {
+    margin-left: 120px;
+    font-size: 10px;
+  }
+  .info {
+    width: 25px;
+    height: 25px;
+    left: 283px;
+    bottom: 36px;
+  }
+  .infotext2 {
+    width: 231px;
+    height: 158px;
+    font-size: 10px;
+    padding: 18px 12px 10px 14px;
+    left: 195px;
+    top: 30px;
+  }
+  .infotext {
+    width: 231px;
+    height: 219px;
+    font-size: 10px;
+    left: 119px;
+    top: -299px;
+    padding: 14px 12px 14px 14px;
+  }
+  /* authors-section */
+  /* reviews-section */
+  .reviews-section {
+    margin-top: 100px;
+  }
+  .study {
+    width: 100%;
+    height: 452px;
+  }
+  .course {
+    font-size: 32px;
+    line-height: 101.38%;
+    margin-left: 71px;
+    padding: 52px 0px 0px;
+    box-sizing: border-box;
+  }
+  .feedback {
+    width: 458px;
+    height: 261px;
+    margin-left: 74px;
+    margin-top: 40px;
+    border: 0.6px solid white;
+    border-radius: 17px;
+  }
+  .comment {
+    width: 405px;
+    height: 120px;
+    margin: 23px 90px 0px 25px;
+    font-size: 12px;
+    line-height: 150%;
+    color: #000000;
+  }
+  .response {
+    display: flex;
+    flex-direction: row;
+  }
+  .photo2 {
+    width: 110px;
+    height: 98px;
+    margin: 4px 0px 0px 15px;
+  }
+  .social-name {
+    margin-left: 0px;
+    margin-top: -15px;
+  }
+  .firstname {
+    width: 204px;
+    height: 34px;
+    margin: 41px 0px 0px 17px;
+    font-size: 17px;
+    line-height: 101.38%;
+  }
+  .facebook {
+    width: 19px;
+    height: 18px;
+    margin-left: 17px;
+    margin-top: 1px;
+  }
+  /* reviews-section */
+  /* begin-section */
+  .begin {
+    display: flex;
+    flex-direction: column;
+    height: 452px;
+    width: 100%;
+  }
+  .september {
+    width: 526px;
+    height: 38px;
+    margin: 103px 0px 0px 72px;
+    font-weight: bold;
+    font-size: 32px;
+    color: #000000;
+  }
+  .cost {
+    width: 71px;
+    margin: 33px 0px 0px 71px;
+    font-size: 14px;
+  }
+  .price {
+    font-size: 46px;
+    margin: 3px 0px 0px 71px;
+  }
+  .information {
+    display: flex;
+    margin: 28px 0px 0px 71px;
+  }
+  .levels {
+    display: flex;
+    flex-direction: column;
+    width: 294px;
+    margin: 15px 0px 0px 1px;
+  }
+  .come {
+    display: flex;
+    flex-direction: column;
+    width: 294px;
+    margin: 16px 0px 0px -84px;
+  }
+  .level {
+    font-size: 14px;
+    margin: 0px 0px -5px;
+  }
+  .from0 {
+    height: 70px;
+    width: 170px;
+    font-size: 10px;
+    margin-top: 12px;
+  }
+  /* begin-section */
+  /* footer-section */
+  footer {
+    width: 834px;
+    height: 225.88px;
+  }
+  .foot {
+    width: 66px;
+    height: 39px;
+    margin-left: 70px;
+  }
+  .social {
+    margin-left: 70px;
+    margin-top: 0;
+    margin-bottom: 80px;
+  }
+  .datafooter {
+    margin-left: 70px;
+    margin-top: 0;
+  }
+  .instagram {
+    width: 19.11px;
+    height: 19.11px;
+    margin-right: 5px;
+  }
+  .facebook2 {
+    width: 18.53px;
+    height: 18.53px;
+    margin-right: 8px;
+  }
+  .vk {
+    width: 20.27px;
+    height: 20.27px;
+    margin-right: 11px;
+  }
+  .whats {
+    width: 19.69px;
+    height: 19.69px;
+  }
+  .phnumberph {
+    width: 15.64px;
+    height: 15.64px;
+  }
+  .phnumberem {
+    width: 15.64px;
+    height: 10.43px;
+  }
+  .phon,
+  .email {
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 14.19px;
+  }
+  .phnumber {
+    margin-right: 15px;
+  }
+  .contact {
+    margin-top: 7px;
+    margin-right: 105px;
+  }
+  .datafooter {
+    font-weight: 400;
+    font-size: 10px;
+    line-height: 10.14px;
+    margin-top: 55px;
+  }
+  .podval {
+    height: 75px;
+  }
+  /* footer-section */
+}
+
+@media screen and (min-width: 375px) and (max-width: 833px) {
+  /* header-section */
+
+  .header-section {
+    margin-bottom: 67px;
+  }
+  .logo {
+    margin-top: 36px;
+    width: 52px;
+    height: 30px;
+    margin-left: 35px;
+  }
+  .film {
+    font-family: Roboto Slab;
+    width: 364px;
+    height: 88px;
+    font-weight: 700;
+    font-size: 37px;
+    line-height: 37.5px;
+    margin-bottom: 3px;
+  }
+  .tmenu {
+    margin-top: 40px;
+    margin-bottom: 7px;
+  }
+  .obsh {
+    margin-left: 35px;
+  }
+  .onet {
+    margin-right: 15px;
+    margin-left: 5px;
+  }
+  .twot {
+    margin-right: 18px;
+    margin-left: 4px;
+  }
+  .threet {
+    margin-left: 7px;
+    margin-right: 5px;
+  }
+  .onet,
+  .twot,
+  .threet {
+    font-weight: 400;
+    font-size: 10px;
+    line-height: 11px;
+    white-space: nowrap;
+    margin-top: 0;
+  }
+  .niz {
+    font-weight: 400;
+    font-size: 10px;
+    line-height: 15px;
+    margin-top: 0px;
+  }
+  .chel {
+    margin-right: 0;
+    margin-top: 184px;
+    margin-left: -398px;
+    width: 141px;
+    height: 175px;
+  }
+  .amenu {
+    margin-right: 0;
+  }
+  .imghead {
+    width: 10px;
+    height: 10px;
+  }
+  .visitka {
+    width: 225px;
+    height: 93px;
+    margin-left: 40px;
+    margin-top: 40px;
+    padding: 9px;
+  }
+  .nach {
+    font-weight: 400;
+    font-size: 11px;
+    line-height: 14px;
+    margin-left: 0;
+    margin-top: 0;
+  }
+  .endi {
+    font-weight: 400;
+    font-size: 11px;
+    padding-top: 5px;
+    padding-right: 0px;
+  }
+  /* header-section */
+  /* about-course-section */
+  .aboux {
+    margin-left: 36px;
+    font-size: 26px;
+  }
+  .text-camera {
+    display: block;
+    margin-left: 36px;
+    margin-right: 36px;
+  }
+  .text-a {
+    max-width: 327px;
+    margin-left: 0;
+    margin-right: 0;
+    flex-wrap: nowrap;
+    font-size: 13px;
+  }
+  .camera1 {
+    width: 146px;
+    height: 146px;
+    margin-left: 84px;
+    margin-top: 0;
+  }
+  .camera2 {
+    width: 108px;
+    height: 95px;
+    margin: 0;
+    position: absolute;
+    left: 220px;
+    top: 535px;
+  }
+  .item1 {
+    margin: 0 43px 0 36px;
+    width: 80px;
+  }
+  .item2 {
+    margin: 0;
+  }
+  .item3 {
+    margin: 0 0 0 36px;
+  }
+  .title {
+    font-size: 12px;
+    margin-bottom: 0;
+  }
+  .subtitle {
+    width: 81px;
+    margin-top: 10px;
+    font-size: 10px;
+  }
+  .block-sub {
+    width: 317px;
+    flex-wrap: nowrap;
+    display: block;
+  }
+  .container-sct2 {
+    position: relative;
+  }
+  /* about-course-section */
+  /* format-section */
+  .format-section {
+    margin-bottom: 25px;
+  }
+  .format {
+    font-size: 26px;
+    line-height: 101.38%;
+    margin-left: 36px;
+    margin-top: -50px;
+  }
+  .block-format {
+    max-width: 833px;
+    display: flex;
+    flex-direction: column;
+  }
+  .access {
+    margin-left: 1px;
+    margin-top: 0px;
+    height: 80px;
+    padding-bottom: 3px;
+  }
+  .webinars {
+    font-size: 12px;
+    line-height: 20%;
+    margin: 18px 0px 0px 35px;
+  }
+  .communication {
+    width: 180px;
+    height: 40px;
+    font-size: 10px;
+    line-height: 130%;
+    margin-left: 35px;
+  }
+  /* format-section */
+  /* what-to-know-section */
+  .what-to-know-section {
+    margin-bottom: 33px;
+  }
+  .what-learn {
+    font-size: 26px;
+    margin-left: 36px;
+    margin-bottom: 10px;
+  }
+  .fencers {
+    width: 132.34px;
+    height: 78.75px;
+    margin-top: -78px;
+    margin-left: -398px;
+  }
+  .block-format2 {
+    display: block;
+  }
+  .learn-list {
+    font-size: 12px;
+    width: 299px;
+    height: 174px;
+    margin-left: 6px;
+    margin-top: -4px;
+    line-height: 150%;
+  }
+  .dragon {
+    width: 179px;
+    height: 94px;
+    margin-top: 58px;
+    margin-left: 96px;
+  }
+  /* what-to-know-section */
+  /* program-section */
+
+  .section-head {
+    justify-content: unset;
+    margin-bottom: 55px;
+  }
+  .text {
+    font-size: 26px;
+    margin-left: 34px;
+    margin-right: 34px;
+  }
+  .block {
+    margin-top: 35px;
+    margin-left: 0;
+  }
+  .block1 {
+    display: block;
+    margin-bottom: 24px;
+  }
+  .block2 {
+    display: block;
+    margin-bottom: 24px;
+  }
+  .block3 {
+    display: block;
+   
+  }
+  .geek {
+    display: none;
+  }
+  .line {
+    height: 7px;
+  }
+  .block-item {
+    border-radius: 13px;
+    width: 185px;
+    min-width: 185px;
+    height: 152px;
+    margin-bottom: 24px;
+    margin-left: 95px;
+  }
+  .block-pick {
+    width: 100%;
+  }
+  .block-h {
+    margin-left: 9px;
+    margin-top: 0;
+    font-size: 14px;
+  }
+  .block-text {
+    margin-left: 9px;
+    font-size: 12px;
+    margin-top: 8px;
+  }
+  .block-h8 {
+    margin-left: 9px;
+    margin-top: 0;
+    font-size: 14px;
+  }
+  .block-text8 {
+    margin-left: 9px;
+    font-size: 12px;
+    margin-top: 8px;
+  }
+  /* program-section */
+  /* authors-section */
+  .authors-section {
+    margin-top: 76px;
+  }
+  .authors-h1 {
+    font-size: 26px;
+    margin-left: 36px;
+    margin-bottom: 0;
+  }
+  .face {
+    width: 88px;
+    height: 82px;
+    margin-left: 25px;
+    margin-top: 22px;
+  }
+  .name {
+    margin-bottom: 0;
+    font-size: 14px;
+  }
+  .subname {
+    margin-top: 10px;
+    font-size: 10px;
+  }
+  .authors-block {
+    margin-left: 123px;
+    margin-top: 43px;
+  }
+  .info {
+    display: none;
+  }
+  .info1 {
+    display: none;
+  }
+  .infotext2 {
+    display: block;
+    font-size: 10px;
+    width: 214px;
+    height: 124px;
+    box-shadow: none;
+    position: static;
+    margin-left: 123px;
+    margin-top: 27px;
+    padding: 0;
+  }
+  .authors-block2 {
+    margin-left: 28px;
+    margin-top: 89px;
+  }
+  .face2 {
+    width: 88px;
+    height: 82px;
+    margin-top: -17px;
+  }
+  .name2 {
+    margin-bottom: 0;
+    font-size: 14px;
+    margin-left: 93px;
+    margin-top: 0;
+  }
+  .subname2 {
+    margin-top: 10px;
+    font-size: 10px;
+    margin-left: 93px;
+  }
+  .infotext {
+    display: block;
+    font-size: 10px;
+    width: 214px;
+    height: 124px;
+    box-shadow: none;
+    position: static;
+    margin-left: 93px;
+    margin-top: 27px;
+    padding: 0;
+  }
+  /* authors-section */
+  /* reviews-section */
+  .reviews-section {
+    margin-top: 100px;
+  }
+  .study {
+    width: 100%;
+    height: 433px;
+  }
+  .course {
+    width: 257px;
+    height: 69px;
+    font-size: 26px;
+    line-height: 101.38%;
+    margin-left: 36px;
+    padding: 52px 0px 0px;
+    box-sizing: border-box;
+  }
+  .feedback {
+    width: 308px;
+    height: 245px;
+    margin-left: 35px;
+    margin-top: 64px;
+    border: 0.5px solid white;
+    border-radius: 14px;
+    box-shadow: 0.465972px 0.465972px 9.31944px rgba(0, 0, 0, 0.25);
+  }
+  .comment {
+    width: 266px;
+    height: 111px;
+    margin: 16px 90px 0px 20px;
+    font-size: 10px;
+    line-height: 150%;
+    color: #000000;
+  }
+  .response {
+    display: flex;
+    flex-direction: row;
+  }
+  .photo2 {
+    width: 94px;
+    height: 95px;
+    margin: 16px 0px 0px 14px;
+  }
+  .social-name {
+    margin-left: -10px;
+    margin-top: -1px;
+  }
+  .firstname {
+    width: 165px;
+    height: 32px;
+    margin: 41px 0px 0px 17px;
+    font-size: 14px;
+    line-height: 101.38%;
+  }
+  .facebook {
+    width: 15px;
+    height: 17px;
+    margin-left: 16px;
+    margin-top: 0px;
+  }
+  /* reviews-section */
+  /* begin-section */
+  .begin {
+    display: flex;
+    flex-direction: column;
+    height: 363px;
+    width: 100%;
+  }
+  .september {
+    width: 224px;
+    height: 63px;
+    margin: 62px 0px 0px 34px;
+    font-size: 26px;
+  }
+  .cost {
+    width: 79px;
+    margin: 22px 0px 0px 33px;
+    font-size: 12px;
+  }
+  .price {
+    font-size: 37px;
+    margin: 3px 0px 0px 33px;
+  }
+  .information {
+    display: flex;
+    margin: 20px 0px 0px 33px;
+  }
+  .levels {
+    display: flex;
+    flex-direction: column;
+    width: 138px;
+    margin: 15px 0px 0px 1px;
+  }
+  .come {
+    display: flex;
+    flex-direction: column;
+    width: 140px;
+    margin: 16px 0px 0px 30px;
+  }
+  .level {
+    font-size: 12px;
+    margin: 0px 0px 0px 0px;
+  }
+  .from0 {
+    height: 47px;
+    width: 140px;
+    font-size: 10px;
+    margin-top: 6px;
+    line-height: 100.38%;
+  }
+  /* begin-section */
+  /* footer-section */
+  footer {
+    width: 100%;
+    height: 251px;
+  }
+  .foot {
+    width: 53px;
+    height: 31px;
+    margin-left: 37px;
+    margin-top: 25px;
+  }
+  .social {
+    margin-left: 37px;
+    margin-bottom: 80px;
+  }
+  .datafooter {
+    margin-left: 70px;
+    margin-top: 0;
+  }
+  .instagram {
+    width: 15px;
+    height: 15px;
+    margin-right: 5px;
+  }
+  .facebook2 {
+    width: 15px;
+    height: 15px;
+    margin-right: 8px;
+  }
+  .vk {
+    width: 16px;
+    height: 16px;
+    margin-right: 6px;
+  }
+  .whats {
+    width: 16px;
+    height: 16px;
+  }
+  .phnumberph {
+    width: 12.5px;
+    height: 12.5px;
+  }
+  .phnumberem {
+    width: 12.5px;
+    height: 8px;
+  }
+  .phon,
+  .email {
+    margin-top: 4px;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 14.19px;
+  }
+  .phnumber {
+    margin-right: 11px;
+  }
+  .contact {
+    margin-top: 75px;
+    margin-right: 105px;
+    margin-left: 37px;
+    display: block;
+  }
+  .datafooter {
+    font-weight: 400;
+    font-size: 10px;
+    line-height: 10.14px;
+    margin-top: 135px;
+    margin-left: 37px;
+  }
+  .podval {
+    height: 69px;
+    display: block;
+  }
+}
