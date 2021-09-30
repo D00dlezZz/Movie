@@ -77,7 +77,8 @@ body {
 }
 
 .chel {
-  margin-top: 130px;
+  margin-top: 30px;
+  margin-left: 80%;
   width: 314px;
   height: 375px;
 }
@@ -482,7 +483,7 @@ body {
   font-size: 18px;
   line-height: 130%;
   margin-left: 205px;
-  min-width: 375px;
+  min-width: 200px;
 }
 
 .face2 {
@@ -862,12 +863,15 @@ footer {
     margin-top: 0px;
   }
   .chel {
-    margin-right: 0;
-    margin-top: 76px;
-    margin-left: -117px;
     width: 176px;
     height: 215px;
   }
+
+  .chel img {
+    margin-right: 0;
+
+  }
+
   .amenu {
     margin-right: 0;
   }
@@ -1373,20 +1377,20 @@ footer {
     margin-top: 0;
   }
   .niz {
+
     font-weight: 400;
     font-size: 10px;
     line-height: 15px;
     margin-top: 0px;
   }
   .chel {
-    margin-right: 0;
-    margin-top: 195px;
-    margin-left: -398px;
+    /* margin-top: 195px; */
     width: 141px;
     height: 175px;
   }
   .amenu {
     margin-right: 0;
+    max-width: 383px;
   }
   .imghead {
     width: 10px;
@@ -1503,6 +1507,7 @@ footer {
     font-size: 10px;
     line-height: 130%;
     margin-left: 35px;
+    margin-top: 10px;
   }
   /* format-section */
   /* what-to-know-section */
@@ -1666,6 +1671,7 @@ footer {
     margin-top: 10px;
     font-size: 10px;
     margin-left: 93px;
+
   }
   .infotext {
     display: block;
