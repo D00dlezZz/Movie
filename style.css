@@ -499,7 +499,7 @@ body {
 
 .info {
   position: absolute;
-  bottom: 72px;
+  bottom: 55px;
   left: 492px;
 }
 
@@ -594,7 +594,7 @@ body {
   line-height: 101.38%;
   color: #000000;
   margin-left: 121px;
-  padding: 70px 0px 0px;
+  padding: 70px 0px 20px 0px;
   box-sizing: border-box;
 }
 
@@ -1118,7 +1118,7 @@ footer {
   .name2 {
     margin-left: 120px;
     font-size: 17px;
-    margin-bottom: -5px;
+    margin-bottom: 10px;
   }
   .subname2 {
     margin-left: 120px;
